@@ -1,0 +1,58 @@
+[
+  {
+    "key": "_SubWiz_SubmitFor",
+    "value": "Submit for "
+  },
+  {
+    "key": "_SubWiz_Review",
+    "value": "Review"
+  },
+  {
+    "key": "_SubWiz_Approval",
+    "value": "Approval"
+  },
+  {
+    "key": "_SubWiz_AppCycleHeader",
+    "value": "Approval Cycle"
+  },
+  {
+    "key": "_SubWiz_AppCycleSegmentsHeader",
+    "value": "Approval Segments"
+  },
+  {
+    "key": "_SubWiz_AppCyclePlaceholder",
+    "value": "select an Approval Cycle ..."
+  },
+  {
+    "key": "_SubWiz_AppCycleError",
+    "value": "An Approval Cycle is required"
+  },
+  {
+    "key": "_SubWiz_WaitForEverybody",
+    "value": "Wait for Everybody ?"
+  },
+  {
+    "key": "_SubWiz_ApproverSource",
+    "value": "Approver Source"
+  },
+  {
+    "key": "_SubWiz_Submitted",
+    "value": " submitted"
+  },
+  {
+    "key": "_SubWiz_NotSubmitted",
+    "value": " not submitted"
+  },
+  {
+    "key": "_SubWiz_ApproverSource",
+    "value": "Approver Source"
+  },
+  {
+    "key": "_SubWiz_ApproverSelectionMode",
+    "value": "Approver Selection Mode"
+  },
+  {
+    "key": "_SubWiz_SegmentType",
+    "value": "Segment Type"
+  }
+]

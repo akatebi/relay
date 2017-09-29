@@ -1,0 +1,32 @@
+
+.cultures {
+
+  .select {
+
+    input {
+      width: 100%;
+      color: @input-color;
+      background: @input-bg;
+      border-color: @input-border;
+      border-radius: @border-radius-base;
+    }
+
+    .dropdown {
+      margin-left: -40px;
+      .item {
+        list-style: none;
+        cursor: default;
+        color: @dropdown-link-color;
+        background-color: @dropdown-bg;
+        border: 1px solid @dropdown-border;
+        border-radius: @border-radius-base;
+        :hover {
+          background-color: @dropdown-link-active-bg;
+          color: @dropdown-bg;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+}

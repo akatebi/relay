@@ -1,0 +1,4 @@
+dist/* merge=theirs
+server/data/database/get/* merge=theirs
+server/data/database/post/* merge=theirs
+server/data/database/put/* merge=theirs

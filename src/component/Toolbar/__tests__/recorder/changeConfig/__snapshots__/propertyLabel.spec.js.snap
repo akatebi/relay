@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recorder onChangeConfig propertyLabel 1`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "id": 0,
+      "propertyLabel": Object {
+        "cultureCode": "en-UK",
+        "value": "v2",
+      },
+    },
+    Object {
+      "id": 1,
+      "propertyLabel": Object {
+        "cultureCode": "en-UK",
+        "value": "v2",
+      },
+    },
+  ],
+}
+`;
+
+exports[`Recorder onChangeConfig propertyLabel 2`] = `Object {}`;

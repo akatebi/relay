@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recorder onChangeConfig simple props 1`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "group": "new value",
+      "id": 0,
+      "url": "new value",
+    },
+    Object {
+      "group": "new value",
+      "id": 1,
+      "url": "new value",
+    },
+  ],
+}
+`;
+
+exports[`Recorder onChangeConfig simple props 2`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "group": "new value",
+      "id": 0,
+    },
+    Object {
+      "group": "new value",
+      "id": 1,
+    },
+  ],
+}
+`;
+
+exports[`Recorder onChangeConfig simple props 3`] = `Object {}`;
+
+exports[`Recorder onChangeConfig simple props 4`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "id": 0,
+      "validations": Array [
+        Object {
+          "messageText": "messageText-1",
+          "regexp": "regexp",
+          "type": "Required",
+        },
+        Object {
+          "messageText": "messageText-1",
+          "regexp": "regexp",
+          "type": "Valid",
+        },
+      ],
+    },
+    Object {
+      "id": 1,
+      "validations": Array [
+        Object {
+          "messageText": "messageText-2",
+          "regexp": "regexp",
+          "type": "Required",
+        },
+        Object {
+          "messageText": "messageText-2",
+          "regexp": "regexp",
+          "type": "Valid",
+        },
+      ],
+    },
+  ],
+}
+`;
+
+exports[`Recorder onChangeConfig simple props 5`] = `Object {}`;

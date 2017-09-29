@@ -1,0 +1,9 @@
+{
+  "verbose": true,
+  "watchman": false,
+  "bail": false,
+  "rootDir": "..",
+  "testMatch":  [ "**/__tests__/**/*.spec.js"],
+  "setupFiles": ["./jest/env.js"],
+  "modulePathIgnorePatterns": ["__snapshots__", "/node_modules/", "/__logs__|put|get|post/"]
+}

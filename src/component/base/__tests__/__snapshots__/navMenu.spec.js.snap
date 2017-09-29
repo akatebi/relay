@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`navMenu 1`] = `
+Object {
+  "viewer": Object {
+    "error": null,
+    "userIdentity": Object {
+      "organization": Object {
+        "entityType": "Organization",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": true,
+        "label": "Enterprise Organization",
+        "revId": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      "user": Object {
+        "entityType": "User",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "User0",
+        "revId": "",
+      },
+    },
+  },
+}
+`;

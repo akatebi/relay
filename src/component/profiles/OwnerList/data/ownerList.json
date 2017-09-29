@@ -1,0 +1,92 @@
+[
+  {
+    "id": "0",
+    "propertyLabel": {
+      "value": "Author"
+    },
+    "valueVM": {
+      "values": [
+        {
+          "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+          "isFamily": false,
+          "cultureCode": "",
+          "id": "04c5d829-5027-4f0a-8e43-a71d00ba12a9",
+          "reportingKey": null,
+          "entityType": "ApplicationRole",
+          "label": "User0",
+          "operation": "NoOp"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1",
+    "propertyLabel": {
+      "value": "Manager"
+    },
+    "valueVM": {
+      "values": [
+        {
+          "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+          "isFamily": false,
+          "cultureCode": "",
+          "id": "04c5d829-5027-4f0a-8e43-a71d00ba12a9",
+          "reportingKey": null,
+          "entityType": "ApplicationRole",
+          "label": "User1",
+          "operation": "NoOp"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "propertyLabel": {
+      "value": "Doc Type Admin"
+    },
+    "valueVM": {
+      "values": [
+        {
+          "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+          "isFamily": false,
+          "cultureCode": "",
+          "id": "04c5d829-5027-4f0a-8e43-a71d00ba12a9",
+          "reportingKey": null,
+          "entityType": "ApplicationRole",
+          "label": "User2",
+          "operation": "NoOp"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "propertyLabel": {
+      "value": "Creation Recipients"
+    },
+    "valueVM": {
+      "values": [
+        {
+          "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+          "isFamily": false,
+          "cultureCode": "",
+          "id": "04c5d829-5027-4f0a-8e43-a71d00ba12a9",
+          "reportingKey": null,
+          "entityType": "ApplicationRole",
+          "label": "User3",
+          "operation": "NoOp"
+        },
+        {
+          "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12aa",
+          "isFamily": false,
+          "cultureCode": "",
+          "id": "04c5d829-5027-4f0a-8e43-a71d00ba12a9",
+          "reportingKey": null,
+          "entityType": "ApplicationRole",
+          "label": "User4",
+          "operation": "NoOp"
+        }
+      ]
+    }
+  }
+]

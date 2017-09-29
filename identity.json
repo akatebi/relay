@@ -1,0 +1,2092 @@
+{
+   "organization": {
+      "familyId": "00000000-0000-0000-0000-000000000000",
+      "isFamily": true,
+      "cultureCode": "",
+      "id": "3916d72a-21a8-440b-91da-a7f600ddcca0",
+      "entityType": "Organization",
+      "label": "Global Organization",
+      "operation": "NoOp"
+   },
+   "documentType": {
+      "familyId": "00000000-0000-0000-0000-000000000000",
+      "isFamily": true,
+      "cultureCode": "",
+      "id": "c41ba311-ddda-48a3-9e86-a7f600ddf9ab",
+      "entityType": "DocumentType",
+      "label": "Default Application Role Profile Document Type",
+      "operation": "NoOp"
+   },
+   "documentClass": {
+      "familyId": "00000000-0000-0000-0000-000000000000",
+      "isFamily": true,
+      "cultureCode": "",
+      "id": "944ffd72-57f5-4d1e-b408-a7f600ddd7d2",
+      "entityType": "DocumentClass",
+      "label": "Application Role Congfiguration Default Profile Class Type Dictionary Entry",
+      "operation": "NoOp"
+   },
+   "lifeCycle": {
+      "config": {
+         "familyId": "00000000-0000-0000-0000-000000000000",
+         "isFamily": false,
+         "cultureCode": "",
+         "id": "068bbb58-2044-49fd-9bfc-a7f600ddcd85",
+         "entityType": "LifeCycleConfig",
+         "label": "Document Life Cycle Config",
+         "operation": "NoOp"
+      },
+      "activeState": {
+         "config": {
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "b4d31b35-92ff-40d8-84d9-a7f600de5ab4",
+            "entityType": "LifeCycleStateConfig",
+            "label": "Document Released State",
+            "operation": "NoOp"
+         },
+         "state": "Released",
+         "completed": false,
+         "completedOn": "1900-01-01T00:00:00Z",
+         "familyId": "00000000-0000-0000-0000-000000000000",
+         "isFamily": false,
+         "cultureCode": "",
+         "id": "ca549a5f-5815-43a0-b755-a7f600de9fed",
+         "entityType": "LifeCycleStateContent",
+         "label": "",
+         "operation": "NoOp"
+      },
+      "lifeCycleGraph": null,
+      "lifeCycleStateContents": [
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "3275b09b-7d3e-46ef-91eb-a7f600de5a98",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document New State",
+               "operation": "NoOp"
+            },
+            "state": "New",
+            "completed": true,
+            "completedOn": "2017-09-22T13:30:33Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "a2265b0f-2f90-4ec6-90a3-a7f600de9fed",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         },
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "bfcd1809-7efd-4303-b280-a7f600de5ab0",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document Approved State",
+               "operation": "NoOp"
+            },
+            "state": "Approved",
+            "completed": true,
+            "completedOn": "2017-09-22T13:30:33Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "fad3b772-2a24-4022-9858-a7f600de9fed",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         },
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "f92fd7c6-22e4-4598-8d39-a7f600de5aa9",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document Draft State",
+               "operation": "NoOp"
+            },
+            "state": "Draft",
+            "completed": true,
+            "completedOn": "2017-09-22T13:30:33Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "0d07f18a-334d-4464-8935-a7f600de9fed",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         },
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "b4d31b35-92ff-40d8-84d9-a7f600de5ab4",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document Released State",
+               "operation": "NoOp"
+            },
+            "state": "Released",
+            "completed": false,
+            "completedOn": "1900-01-01T00:00:00Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "ca549a5f-5815-43a0-b755-a7f600de9fed",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         },
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "04cb0811-1cdc-4d4a-8796-a7f600de5ab7",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document Superseded-Obsolete State",
+               "operation": "NoOp"
+            },
+            "state": "Superseded",
+            "completed": false,
+            "completedOn": "1900-01-01T00:00:00Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb1c440b-4ff5-47e0-ba5d-a7f600de9fee",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         },
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "7801a60d-12ff-47f7-bd8f-a7f600de5abb",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document Archived State",
+               "operation": "NoOp"
+            },
+            "state": "Archived",
+            "completed": false,
+            "completedOn": "1900-01-01T00:00:00Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "0270b73d-348c-468b-83b5-a7f600de9fee",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         },
+         {
+            "config": {
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": false,
+               "cultureCode": "",
+               "id": "bc10881b-00ad-4905-bddc-a7f600de5ac2",
+               "entityType": "LifeCycleStateConfig",
+               "label": "Document Deleted State",
+               "operation": "NoOp"
+            },
+            "state": "Deleted",
+            "completed": false,
+            "completedOn": "1900-01-01T00:00:00Z",
+            "familyId": "00000000-0000-0000-0000-000000000000",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "5cdd8ca8-ae9c-485f-a0b3-a7f600de9fee",
+            "entityType": "LifeCycleStateContent",
+            "label": "",
+            "operation": "NoOp"
+         }
+      ],
+      "familyId": "00000000-0000-0000-0000-000000000000",
+      "isFamily": false,
+      "cultureCode": null,
+      "id": "09201093-e169-4115-bb7f-a7f600de9fed",
+      "entityType": "LifeCycleContent",
+      "label": null,
+      "operation": "NoOp"
+   },
+   "formHeader": "Form Header Text",
+   "profileDocument": null,
+   "locked": false,
+   "lockedBy": null,
+   "standardProperties": [
+      {
+         "reportingKey": null,
+         "propertyType": "Boolean",
+         "config": {
+            "reportingKey": null,
+            "url": "",
+            "group": {
+               "id": "8f19ff0b-3638-4a7c-99fd-e545b2743d40",
+               "cultureCode": "",
+               "value": "Document Identity"
+            },
+            "validations": [
+               {
+                  "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                  "isRequired": false,
+                  "type": "Required",
+                  "messageText": "This property value is required"
+               },
+               {
+                  "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                  "regex": "[a-zA-Z0-9_-]+$",
+                  "type": "Valid",
+                  "messageText": "This property value is invalid"
+               }
+            ],
+            "isMultiSelect": false,
+            "isVisible": true,
+            "defaultValue": null,
+            "propertyType": "NotSpecified",
+            "propertyLabel": null,
+            "propertyBehavior": "Classification",
+            "customAttributes": [
+               {
+                  "name": "ListType",
+                  "type": "NotSpecified",
+                  "value": "None"
+               }
+            ],
+            "id": "87000fa3-384e-4ff2-8fc4-773a234725ed",
+            "entityType": "ChoiceList",
+            "label": "",
+            "operation": "NoOp"
+         },
+         "name": "Rev_Visible",
+         "valueVM": true,
+         "isEditable": false,
+         "id": "4fe4279d-b273-42cc-973f-1ae63289e946",
+         "entityType": "ChoiceList",
+         "label": "Visible",
+         "operation": "NoOp"
+      },
+      {
+         "reportingKey": null,
+         "propertyType": "Date",
+         "config": {
+            "reportingKey": null,
+            "url": "",
+            "group": {
+               "id": "8f19ff0b-3638-4a7c-99fd-e545b2743d40",
+               "cultureCode": "",
+               "value": "Document Identity"
+            },
+            "validations": [
+               {
+                  "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                  "isRequired": false,
+                  "type": "Required",
+                  "messageText": "This property value is required"
+               },
+               {
+                  "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                  "regex": "[a-zA-Z0-9_-]+$",
+                  "type": "Valid",
+                  "messageText": "This property value is invalid"
+               }
+            ],
+            "isMultiSelect": false,
+            "isVisible": true,
+            "defaultValue": null,
+            "propertyType": "NotSpecified",
+            "propertyLabel": null,
+            "propertyBehavior": "Classification",
+            "customAttributes": [
+               {
+                  "name": "ListType",
+                  "type": "NotSpecified",
+                  "value": "None"
+               }
+            ],
+            "id": "87000fa3-384e-4ff2-8fc4-773a234725ed",
+            "entityType": "ChoiceList",
+            "label": "",
+            "operation": "NoOp"
+         },
+         "name": "Rev_Utc_Created",
+         "valueVM": "2017-09-22T13:30:33.11Z",
+         "isEditable": false,
+         "id": "5fb2f49c-6488-4b3a-82f5-4b40863dfe3e",
+         "entityType": "ChoiceList",
+         "label": "CreateDate",
+         "operation": "NoOp"
+      },
+      {
+         "reportingKey": null,
+         "propertyType": "Date",
+         "config": {
+            "reportingKey": null,
+            "url": "",
+            "group": {
+               "id": "8f19ff0b-3638-4a7c-99fd-e545b2743d40",
+               "cultureCode": "",
+               "value": "Document Identity"
+            },
+            "validations": [
+               {
+                  "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                  "isRequired": false,
+                  "type": "Required",
+                  "messageText": "This property value is required"
+               },
+               {
+                  "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                  "regex": "[a-zA-Z0-9_-]+$",
+                  "type": "Valid",
+                  "messageText": "This property value is invalid"
+               }
+            ],
+            "isMultiSelect": false,
+            "isVisible": true,
+            "defaultValue": null,
+            "propertyType": "NotSpecified",
+            "propertyLabel": null,
+            "propertyBehavior": "Classification",
+            "customAttributes": [
+               {
+                  "name": "ListType",
+                  "type": "NotSpecified",
+                  "value": "None"
+               }
+            ],
+            "id": "87000fa3-384e-4ff2-8fc4-773a234725ed",
+            "entityType": "ChoiceList",
+            "label": "",
+            "operation": "NoOp"
+         },
+         "name": "Rev_Utc_LastSaved",
+         "valueVM": "2017-09-22T13:30:33.13Z",
+         "isEditable": false,
+         "id": "6e6ee9dd-e74f-4f4c-a578-27d1bab08eec",
+         "entityType": "ChoiceList",
+         "label": "LastSavedDate",
+         "operation": "NoOp"
+      },
+      {
+         "reportingKey": null,
+         "propertyType": "EntityList",
+         "config": {
+            "reportingKey": null,
+            "url": "api/v1/lifecycle/states",
+            "group": {
+               "id": "8f19ff0b-3638-4a7c-99fd-e545b2743d40",
+               "cultureCode": "",
+               "value": "Document Identity"
+            },
+            "validations": [
+               {
+                  "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                  "isRequired": false,
+                  "type": "Required",
+                  "messageText": "This property value is required"
+               },
+               {
+                  "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                  "regex": "[a-zA-Z0-9_-]+$",
+                  "type": "Valid",
+                  "messageText": "This property value is invalid"
+               }
+            ],
+            "isMultiSelect": false,
+            "isVisible": true,
+            "defaultValue": null,
+            "propertyType": "NotSpecified",
+            "propertyLabel": null,
+            "propertyBehavior": "Classification",
+            "customAttributes": [
+               {
+                  "name": "ListType",
+                  "type": "NotSpecified",
+                  "value": "Choice"
+               }
+            ],
+            "id": "de089742-419e-4f58-9a1d-9a2eeb77b985",
+            "entityType": "ChoiceList",
+            "label": null,
+            "operation": "NoOp"
+         },
+         "name": "Rev_State",
+         "valueVM": "Released",
+         "isEditable": false,
+         "id": "7526f6a9-b791-4fcd-96c5-c85c6909abcb",
+         "entityType": "ChoiceList",
+         "label": "State",
+         "operation": "NoOp"
+      },
+      {
+         "reportingKey": null,
+         "propertyType": "EntityList",
+         "config": {
+            "reportingKey": null,
+            "url": "api/v1/lifecycle/states",
+            "group": {
+               "id": "8f19ff0b-3638-4a7c-99fd-e545b2743d40",
+               "cultureCode": "",
+               "value": "Document Identity"
+            },
+            "validations": [
+               {
+                  "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                  "isRequired": false,
+                  "type": "Required",
+                  "messageText": "This property value is required"
+               },
+               {
+                  "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                  "regex": "[a-zA-Z0-9_-]+$",
+                  "type": "Valid",
+                  "messageText": "This property value is invalid"
+               }
+            ],
+            "isMultiSelect": false,
+            "isVisible": true,
+            "defaultValue": null,
+            "propertyType": "NotSpecified",
+            "propertyLabel": null,
+            "propertyBehavior": "Classification",
+            "customAttributes": [
+               {
+                  "name": "ListType",
+                  "type": "NotSpecified",
+                  "value": "Choice"
+               }
+            ],
+            "id": "de089742-419e-4f58-9a1d-9a2eeb77b985",
+            "entityType": "ChoiceList",
+            "label": null,
+            "operation": "NoOp"
+         },
+         "name": "Rev_FullStatus",
+         "valueVM": "Released",
+         "isEditable": false,
+         "id": "6b9f2972-724f-4ab0-a7e4-96c0ea1c39aa",
+         "entityType": "ChoiceList",
+         "label": "FullStatus",
+         "operation": "NoOp"
+      }
+   ],
+   "customProperties": [
+      {
+         "id": "7c19c706-9b4f-437f-b011-a7f600de9fef",
+         "relationshipType": "DocDateContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Date",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "7cc74685-de75-4eb7-8508-a7f600ddfad0",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Date",
+               "propertyLabel": {
+                  "id": "9d65aa62-1385-442b-aedc-a7f600ddfad0",
+                  "cultureCode": "",
+                  "value": "Test DatePropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "ReminderInterval",
+                     "type": "Duration",
+                     "value": "3.00:00:00"
+                  }
+               ],
+               "id": "bf49cc50-153b-4c5b-bcd0-a7f600ddfad0",
+               "entityType": "DatePropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": "2016-01-01T00:00:00Z",
+            "isEditable": false,
+            "id": "4a1f50f3-251f-41a9-bbdc-a7f600de9fef",
+            "entityType": "DatePropertyContent",
+            "label": "Test DatePropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "98289274-49e7-41cd-a585-a7f600ddcd79"
+      },
+      {
+         "id": "3a51ddab-5eb7-4c09-bab0-a7f600de9fef",
+         "relationshipType": "DocDateContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Date",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "7f2ee2e6-865d-42bc-8509-a7f600ddfaeb",
+                  "cultureCode": "",
+                  "value": "Document Dates"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Date",
+               "propertyLabel": {
+                  "id": "12b67374-b144-48bb-b646-a7f600ddfaeb",
+                  "cultureCode": "",
+                  "value": "Due Date"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "ReminderInterval",
+                     "type": "Duration",
+                     "value": "3.00:00:00"
+                  }
+               ],
+               "id": "62f44de6-2199-498d-8bf3-a7f600ddfaeb",
+               "entityType": "DatePropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": "2016-01-01T00:00:00Z",
+            "isEditable": false,
+            "id": "9071fd8a-8a15-4043-8a94-a7f600de9fef",
+            "entityType": "DatePropertyContent",
+            "label": "Due Date",
+            "operation": "NoOp"
+         },
+         "configId": "98289274-49e7-41cd-a585-a7f600ddcd79"
+      },
+      {
+         "id": "e6669b71-f778-41aa-9a0d-a7f600de9fef",
+         "relationshipType": "DocBooleanContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Boolean",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "de09a2f2-7100-4069-8257-a7f600ddf9ef",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Boolean",
+               "propertyLabel": {
+                  "id": "845eb968-8893-4731-a73f-a7f600ddf9ef",
+                  "cultureCode": "",
+                  "value": "Test BooleanPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [],
+               "id": "c4028312-fb10-47e2-94f3-a7f600ddf9ef",
+               "entityType": "BooleanPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": false,
+            "isEditable": false,
+            "id": "12642255-f9cc-4bde-a89d-a7f600de9fef",
+            "entityType": "BooleanPropertyContent",
+            "label": "Test BooleanPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "b708167d-f92c-4273-807e-a7f600ddcd79"
+      },
+      {
+         "id": "224b5124-26ec-4c5f-a925-a7f600de9fef",
+         "relationshipType": "DocCategoryContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Category",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "778d2d05-b052-4fa8-95ec-a7f600ddfbaa",
+                  "cultureCode": "",
+                  "value": "Document Type General Settings"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": false,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Category",
+               "propertyLabel": {
+                  "id": "6d522eef-43a5-411f-b899-a7f600ddfbaa",
+                  "cultureCode": "",
+                  "value": "Default Read Restriction"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "CategoryHierarchy",
+                     "type": "Entity",
+                     "value": {
+                        "$type": "Mapping.Models.Base.EntityVM, Mapping",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": true,
+                        "cultureCode": "",
+                        "id": "6388f523-4cb4-4837-a143-a7f600ddd5e1",
+                        "entityType": "ChoiceList",
+                        "label": "Make No Change, Enable, Disable",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "RootDictionaryEntry",
+                     "type": "Entity",
+                     "value": {
+                        "$type": "Mapping.Models.Base.EntityVM, Mapping",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": true,
+                        "cultureCode": "",
+                        "id": "d0d25511-28de-4d15-a799-a7f600ddd590",
+                        "entityType": "DictionaryEntry",
+                        "label": "Inheritance",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "CanSelectLeafOnly",
+                     "type": "Boolean",
+                     "value": true
+                  },
+                  {
+                     "name": "MinimumDepth",
+                     "type": "Integer",
+                     "value": 0
+                  }
+               ],
+               "id": "ddcf7505-c05c-4b42-b2c9-a7f600ddfbaa",
+               "entityType": "CategoryPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.EntityVM, Mapping]], mscorlib",
+               "$values": [
+                  {
+                     "familyId": "00000000-0000-0000-0000-000000000000",
+                     "isFamily": true,
+                     "cultureCode": "",
+                     "id": "3986f104-7f2c-4ec5-a212-a7f600ddd591",
+                     "entityType": "DictionaryEntry",
+                     "label": "Make No Change",
+                     "operation": "NoOp"
+                  }
+               ]
+            },
+            "isEditable": false,
+            "id": "57b7fb5d-747c-48c7-bd16-a7f600de9fef",
+            "entityType": "CategoryPropertyContent",
+            "label": "Default Read Restriction",
+            "operation": "NoOp"
+         },
+         "configId": "d125d0fa-6abd-4140-8293-a7f600ddcd79"
+      },
+      {
+         "id": "a6af90c6-6dca-4887-ba4d-a7f600de9fef",
+         "relationshipType": "DocRoleListContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "RoleList",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "f5a37726-8336-492d-961a-a7f600ddfb8e",
+                  "cultureCode": "",
+                  "value": "LifeCycle"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": true,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "RoleList",
+               "propertyLabel": {
+                  "id": "e39f560c-09ba-48dd-9d57-a7f600ddfb8e",
+                  "cultureCode": "",
+                  "value": "Creation Recipients"
+               },
+               "propertyBehavior": "Classification",
+               "customAttributes": [
+                  {
+                     "name": "FieldType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Read",
+                        "enumType": "CPCore.AccessType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "cb6493b0-7d51-4b22-b074-f1da78147d23",
+                        "entityType": "NotSpecified",
+                        "label": "Read",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "LifeCycleCandidacyType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "None",
+                        "enumType": "CPCore.LifeCycleCandidacyType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "51c79726-d40b-4f8b-8aec-df6524a8ddbd",
+                        "entityType": "NotSpecified",
+                        "label": "None",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "RoleCategories",
+                     "type": "RoleList",
+                     "value": {
+                        "$type": "System.Collections.Generic.List`1[[CPCore.ApplicationRoleCategory, CPCore]], mscorlib",
+                        "$values": []
+                     }
+                  }
+               ],
+               "id": "702030be-b8ec-48a5-9e3b-a7f600ddfb8e",
+               "entityType": "RoleListPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.EntityVM, Mapping]], mscorlib",
+               "$values": [
+                  {
+                     "familyId": "00000000-0000-0000-0000-000000000000",
+                     "isFamily": true,
+                     "cultureCode": "",
+                     "id": "dc8084f7-6a8b-44d7-b5c3-a7f600ddcd5d",
+                     "entityType": "ApplicationRole",
+                     "label": "User5",
+                     "operation": "NoOp"
+                  }
+               ]
+            },
+            "isEditable": true,
+            "id": "8752ee9f-c14e-42bf-b265-a7f600de9fef",
+            "entityType": "RoleListPropertyContent",
+            "label": "Creation Recipients",
+            "operation": "NoOp"
+         },
+         "configId": "9fcd78a1-89df-4b44-943f-a7f600ddcd79"
+      },
+      {
+         "id": "668471e8-cc81-4da1-b3e9-a7f600de9fef",
+         "relationshipType": "DocDecimalContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Decimal",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "c80478af-6272-45dd-905e-a7f600ddfa2a",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Decimal",
+               "propertyLabel": {
+                  "id": "dc8bfb4c-4693-4fd5-a815-a7f600ddfa2a",
+                  "cultureCode": "",
+                  "value": "Test DecimalPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [],
+               "id": "9a94ae72-c90f-408b-a3d4-a7f600ddfa2a",
+               "entityType": "DecimalPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": 100.99,
+            "isEditable": false,
+            "id": "0d648f28-58e4-446b-83d7-a7f600de9fef",
+            "entityType": "DecimalPropertyContent",
+            "label": "Test DecimalPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "d7aa76ef-d69e-4910-91f5-a7f600ddcd79"
+      },
+      {
+         "id": "c653a8ff-3bd7-4eeb-bb11-a7f600de9fef",
+         "relationshipType": "DocEntityContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Entity",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "4979b7a4-678e-4570-8627-a7f600ddfb05",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Entity",
+               "propertyLabel": {
+                  "id": "e7de92f0-de96-422c-ae09-a7f600ddfb05",
+                  "cultureCode": "",
+                  "value": "Test EntityPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "ValueType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Organization",
+                        "enumType": "CPCore.CPEntityType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "10268104-a8b3-4805-8051-97b281e3507c",
+                        "entityType": "NotSpecified",
+                        "label": "Organization",
+                        "operation": "NoOp"
+                     }
+                  }
+               ],
+               "id": "b97a23db-87b4-43d2-b6de-a7f600ddfb05",
+               "entityType": "EntityPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "Mapping.Models.Base.EntityVM, Mapping",
+               "familyId": "00000000-0000-0000-0000-000000000000",
+               "isFamily": true,
+               "cultureCode": "",
+               "id": "3916d72a-21a8-440b-91da-a7f600ddcca0",
+               "entityType": "Organization",
+               "label": "Global Organization",
+               "operation": "NoOp"
+            },
+            "isEditable": false,
+            "id": "af3bc775-6fe5-4dd9-a89f-a7f600de9fef",
+            "entityType": "EntityPropertyContent",
+            "label": "Test EntityPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "b0c3783b-2c51-4944-b596-a7f600ddcd79"
+      },
+      {
+         "id": "5fd04eab-5131-4e07-b788-a7f600de9fef",
+         "relationshipType": "DocEntityListContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "EntityList",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "1cb214a2-4387-4771-8ae9-a7f600ddfb20",
+                  "cultureCode": "",
+                  "value": "Document Type Identity"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "EntityList",
+               "propertyLabel": {
+                  "id": "0ff72abb-bcf4-42d4-843a-a7f600ddfb20",
+                  "cultureCode": "",
+                  "value": "Test EntityListPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "ListType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Organization",
+                        "enumType": "CPCore.CPEntityType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "9afa5f12-8bed-4fb1-84a1-8859c7d344ac",
+                        "entityType": "NotSpecified",
+                        "label": "Organization",
+                        "operation": "NoOp"
+                     }
+                  }
+               ],
+               "id": "6e9d05c0-a58e-4f30-9d37-a7f600ddfb20",
+               "entityType": "EntityListPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.EntityVM, Mapping]], mscorlib",
+               "$values": [
+                  {
+                     "familyId": "00000000-0000-0000-0000-000000000000",
+                     "isFamily": true,
+                     "cultureCode": "",
+                     "id": "3916d72a-21a8-440b-91da-a7f600ddcca0",
+                     "entityType": "Organization",
+                     "label": "Global Organization",
+                     "operation": "NoOp"
+                  }
+               ]
+            },
+            "isEditable": false,
+            "id": "0b71747a-3348-4a6c-ab22-a7f600de9fef",
+            "entityType": "EntityListPropertyContent",
+            "label": "Test EntityListPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "c8b36ec1-5ba5-49f0-9805-a7f600ddcd79"
+      },
+      {
+         "id": "8de0dba9-5153-430e-af7d-a7f600de9fef",
+         "relationshipType": "DocFloatContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Float",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "d87e2efc-85c6-431e-87aa-a7f600ddfa45",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Float",
+               "propertyLabel": {
+                  "id": "72837917-be75-4076-9ff5-a7f600ddfa44",
+                  "cultureCode": "",
+                  "value": "Test FloatPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [],
+               "id": "962d032d-01e6-4f65-9e9e-a7f600ddfa44",
+               "entityType": "FloatPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": 1.00001,
+            "isEditable": false,
+            "id": "89fa1d7d-043e-428a-888e-a7f600de9fef",
+            "entityType": "FloatPropertyContent",
+            "label": "Test FloatPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "0b179881-ffb3-4fc6-b28e-a7f600ddcd79"
+      },
+      {
+         "id": "32db8da5-5f5c-4864-a888-a7f600de9fef",
+         "relationshipType": "DocIntegerContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Integer",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "a2903c4f-88d7-4e61-b576-a7f600ddfa0e",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Integer",
+               "propertyLabel": {
+                  "id": "d872843b-d509-4076-90bb-a7f600ddfa0e",
+                  "cultureCode": "",
+                  "value": "Test IntegerPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "IsPositive",
+                     "type": "Boolean",
+                     "value": false
+                  }
+               ],
+               "id": "eae13ad3-55da-4fdc-bccb-a7f600ddfa0e",
+               "entityType": "IntegerPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": 99,
+            "isEditable": false,
+            "id": "df25aa7d-4b9d-4ea0-ac4a-a7f600de9fef",
+            "entityType": "IntegerPropertyContent",
+            "label": "Test IntegerPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "96f41dde-c31f-43df-ab0b-a7f600ddcd79"
+      },
+      {
+         "id": "2b5e63aa-e036-4261-9884-a7f600de9fef",
+         "relationshipType": "DocTextContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Text",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "1c009e2c-3eb1-42a9-aaef-a7f600ddfa9a",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Text",
+               "propertyLabel": {
+                  "id": "a538d595-60dd-431b-ba6a-a7f600ddfa99",
+                  "cultureCode": "",
+                  "value": "Form Header"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "MaxLength",
+                     "type": "Integer",
+                     "value": 256
+                  },
+                  {
+                     "name": "Multiline",
+                     "type": "Boolean",
+                     "value": false
+                  }
+               ],
+               "id": "68de0dd8-68d2-4665-9272-a7f600ddfa99",
+               "entityType": "TextPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "Mapping.Models.Base.ResourceTextVM, Mapping",
+               "id": "00000000-0000-0000-0000-000000000000",
+               "cultureCode": "",
+               "value": "Form Header Text"
+            },
+            "isEditable": false,
+            "id": "b870cf5d-eda8-4e3c-b837-a7f600de9fef",
+            "entityType": "TextPropertyContent",
+            "label": "Form Header",
+            "operation": "NoOp"
+         },
+         "configId": "a5c7f5a2-7919-44f5-95a8-a7f600ddcd79"
+      },
+      {
+         "id": "3b96ea5b-7be2-4452-a9db-a7f600de9fef",
+         "relationshipType": "DocTextContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Text",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "cc8f36c3-0a69-4164-909e-a7f600ddfa60",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": false,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Text",
+               "propertyLabel": {
+                  "id": "6cf92eb9-9e12-40a6-8a00-a7f600ddfa60",
+                  "cultureCode": "",
+                  "value": "Reporting Key"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "MaxLength",
+                     "type": "Integer",
+                     "value": 256
+                  },
+                  {
+                     "name": "Multiline",
+                     "type": "Boolean",
+                     "value": false
+                  }
+               ],
+               "id": "ad0c104a-f27a-43c5-b16c-a7f600ddfa60",
+               "entityType": "TextPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "Mapping.Models.Base.ResourceTextVM, Mapping",
+               "id": "00000000-0000-0000-0000-000000000000",
+               "cultureCode": "",
+               "value": ""
+            },
+            "isEditable": false,
+            "id": "11c9d87b-4592-4b40-8aaf-a7f600de9fef",
+            "entityType": "TextPropertyContent",
+            "label": "Reporting Key",
+            "operation": "NoOp"
+         },
+         "configId": "a5c7f5a2-7919-44f5-95a8-a7f600ddcd79"
+      },
+      {
+         "id": "074f4e05-8912-4e3e-aeaa-a7f600de9fef",
+         "relationshipType": "DocTextContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "Text",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "f805f037-b657-4ea5-a8cb-a7f600ddfa7c",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "Text",
+               "propertyLabel": {
+                  "id": "2c5bc502-6f93-4e0d-9888-a7f600ddfa7c",
+                  "cultureCode": "",
+                  "value": "Test TextPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [
+                  {
+                     "name": "MaxLength",
+                     "type": "Integer",
+                     "value": 32
+                  },
+                  {
+                     "name": "Multiline",
+                     "type": "Boolean",
+                     "value": false
+                  }
+               ],
+               "id": "cce78aba-647f-434a-a413-a7f600ddfa7c",
+               "entityType": "TextPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "Mapping.Models.Base.ResourceTextVM, Mapping",
+               "id": "00000000-0000-0000-0000-000000000000",
+               "cultureCode": "",
+               "value": "TestTextValue"
+            },
+            "isEditable": false,
+            "id": "70d10f5c-b256-41fe-88d1-a7f600de9fef",
+            "entityType": "TextPropertyContent",
+            "label": "Test TextPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "a5c7f5a2-7919-44f5-95a8-a7f600ddcd79"
+      },
+      {
+         "id": "302672f4-049b-4c7c-9c11-a7f600de9fef",
+         "relationshipType": "DocRichTextContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "RichText",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "6fa462bc-0b79-4a56-a821-a7f600ddfab6",
+                  "cultureCode": "",
+                  "value": "Unassigned Section"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "RichText",
+               "propertyLabel": {
+                  "id": "ba273741-e8c9-4458-a089-a7f600ddfab6",
+                  "cultureCode": "",
+                  "value": "Test RichTextPropertyConfig Field"
+               },
+               "propertyBehavior": "Content",
+               "customAttributes": [],
+               "id": "ed061b67-0c3f-46cb-b0dc-a7f600ddfab6",
+               "entityType": "RichTextPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "Mapping.Models.Base.ResourceTextVM, Mapping",
+               "id": "00000000-0000-0000-0000-000000000000",
+               "cultureCode": "",
+               "value": "TestRichTextValue"
+            },
+            "isEditable": false,
+            "id": "e562ae29-a6af-47fd-a1d2-a7f600de9fef",
+            "entityType": "RichTextPropertyContent",
+            "label": "Test RichTextPropertyConfig Field",
+            "operation": "NoOp"
+         },
+         "configId": "364ba22c-1e41-4d55-a695-a7f600ddcd79"
+      }
+   ],
+   "identities": [
+      {
+         "id": "5097803b-f5b1-4651-8bd9-a7f600de9fef",
+         "relationshipType": "DocRoleListContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "RoleList",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "f88f335c-c8a8-4fef-8e7a-a7f600ddfb3a",
+                  "cultureCode": "",
+                  "value": "Identity"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "RoleList",
+               "propertyLabel": {
+                  "id": "5ed049c1-100c-429d-923c-a7f600ddfb3a",
+                  "cultureCode": "",
+                  "value": "Author"
+               },
+               "propertyBehavior": "Classification",
+               "customAttributes": [
+                  {
+                     "name": "FieldType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Delete",
+                        "enumType": "CPCore.AccessType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "e050f236-a70d-41e6-a09b-75f79afffd15",
+                        "entityType": "NotSpecified",
+                        "label": "Delete",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "LifeCycleCandidacyType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "None",
+                        "enumType": "CPCore.LifeCycleCandidacyType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "7ea885ed-56e8-47cb-b44d-0f994906b3e9",
+                        "entityType": "NotSpecified",
+                        "label": "None",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "RoleCategories",
+                     "type": "RoleList",
+                     "value": {
+                        "$type": "System.Collections.Generic.List`1[[CPCore.ApplicationRoleCategory, CPCore]], mscorlib",
+                        "$values": []
+                     }
+                  }
+               ],
+               "id": "2bdd960b-163b-471b-b7fb-a7f600ddfb3a",
+               "entityType": "RoleListPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.EntityVM, Mapping]], mscorlib",
+               "$values": [
+                  {
+                     "familyId": "00000000-0000-0000-0000-000000000000",
+                     "isFamily": true,
+                     "cultureCode": "",
+                     "id": "c1c68ab6-9c9e-483a-b426-a7f600ddcce1",
+                     "entityType": "ApplicationRole",
+                     "label": "System Super User",
+                     "operation": "NoOp"
+                  }
+               ]
+            },
+            "isEditable": true,
+            "id": "9efd6fca-10c4-460c-8920-a7f600de9fef",
+            "entityType": "RoleListPropertyContent",
+            "label": "Author",
+            "operation": "NoOp"
+         },
+         "configId": "9fcd78a1-89df-4b44-943f-a7f600ddcd79"
+      },
+      {
+         "id": "b911d356-258c-4500-9e25-a7f600de9fef",
+         "relationshipType": "DocRoleListContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "RoleList",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "e113e2dd-2d21-48f7-9921-a7f600ddfb70",
+                  "cultureCode": "",
+                  "value": "Identity"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": true,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "RoleList",
+               "propertyLabel": {
+                  "id": "5f3df879-3427-4824-827d-a7f600ddfb70",
+                  "cultureCode": "",
+                  "value": "Document Type Administrator"
+               },
+               "propertyBehavior": "Classification",
+               "customAttributes": [
+                  {
+                     "name": "FieldType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Delete",
+                        "enumType": "CPCore.AccessType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "51d55042-6202-494f-b690-349bc699a51f",
+                        "entityType": "NotSpecified",
+                        "label": "Delete",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "LifeCycleCandidacyType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "None",
+                        "enumType": "CPCore.LifeCycleCandidacyType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "7b9fbc0b-1096-4263-9858-b3af3bd3b126",
+                        "entityType": "NotSpecified",
+                        "label": "None",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "RoleCategories",
+                     "type": "RoleList",
+                     "value": {
+                        "$type": "System.Collections.Generic.List`1[[CPCore.ApplicationRoleCategory, CPCore]], mscorlib",
+                        "$values": []
+                     }
+                  }
+               ],
+               "id": "fb224f5a-0b9f-40eb-b120-a7f600ddfb70",
+               "entityType": "RoleListPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.EntityVM, Mapping]], mscorlib",
+               "$values": [
+                  {
+                     "familyId": "00000000-0000-0000-0000-000000000000",
+                     "isFamily": true,
+                     "cultureCode": "",
+                     "id": "dc8084f7-6a8b-44d7-b5c3-a7f600ddcd5d",
+                     "entityType": "ApplicationRole",
+                     "label": "User5",
+                     "operation": "NoOp"
+                  }
+               ]
+            },
+            "isEditable": true,
+            "id": "a68953f3-f43b-4fa9-b364-a7f600de9fef",
+            "entityType": "RoleListPropertyContent",
+            "label": "Document Type Administrator",
+            "operation": "NoOp"
+         },
+         "configId": "9fcd78a1-89df-4b44-943f-a7f600ddcd79"
+      },
+      {
+         "id": "cf7d0fc3-b968-44bc-ab4a-a7f600de9fef",
+         "relationshipType": "DocRoleListContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "RoleList",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "15c49f7f-ed38-4be0-95b7-a7f600ddfb55",
+                  "cultureCode": "",
+                  "value": "Identity"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "RoleList",
+               "propertyLabel": {
+                  "id": "5029fb89-505e-42f0-88c6-a7f600ddfb55",
+                  "cultureCode": "",
+                  "value": "Manager"
+               },
+               "propertyBehavior": "Classification",
+               "customAttributes": [
+                  {
+                     "name": "FieldType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Delete",
+                        "enumType": "CPCore.AccessType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "30eb0c37-94e7-492e-8d37-6634737636b2",
+                        "entityType": "NotSpecified",
+                        "label": "Delete",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "LifeCycleCandidacyType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "None",
+                        "enumType": "CPCore.LifeCycleCandidacyType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "c70fbd9a-2dc8-4552-aa4b-901231ff78bd",
+                        "entityType": "NotSpecified",
+                        "label": "None",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "RoleCategories",
+                     "type": "RoleList",
+                     "value": {
+                        "$type": "System.Collections.Generic.List`1[[CPCore.ApplicationRoleCategory, CPCore]], mscorlib",
+                        "$values": []
+                     }
+                  }
+               ],
+               "id": "fac1f795-4445-4d4e-828a-a7f600ddfb55",
+               "entityType": "RoleListPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.EntityVM, Mapping]], mscorlib",
+               "$values": [
+                  {
+                     "familyId": "00000000-0000-0000-0000-000000000000",
+                     "isFamily": true,
+                     "cultureCode": "",
+                     "id": "812b7b44-f34b-43f2-ad73-a7f600ddcd36",
+                     "entityType": "ApplicationRole",
+                     "label": "UserManager",
+                     "operation": "NoOp"
+                  }
+               ]
+            },
+            "isEditable": true,
+            "id": "1730f7aa-b781-403f-8a26-a7f600de9fef",
+            "entityType": "RoleListPropertyContent",
+            "label": "Manager",
+            "operation": "NoOp"
+         },
+         "configId": "9fcd78a1-89df-4b44-943f-a7f600ddcd79"
+      },
+      {
+         "id": "27e5047e-a14a-4a9f-bd88-a7f600de9fef",
+         "relationshipType": "DocControlNumberContent",
+         "operation": "NoOp",
+         "head": {
+            "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+            "isFamily": false,
+            "cultureCode": "",
+            "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+            "entityType": "Document",
+            "label": "Super Admin Role",
+            "operation": "NoOp"
+         },
+         "tail": {
+            "reportingKey": null,
+            "propertyType": "ControlNumber",
+            "config": {
+               "reportingKey": null,
+               "url": null,
+               "group": {
+                  "id": "9b097bee-f1b7-4a82-887c-a7f600ddfbc8",
+                  "cultureCode": "",
+                  "value": "Identity"
+               },
+               "validations": [
+                  {
+                     "$type": "Mapping.Models.Base.RequiredValidationVM, Mapping",
+                     "isRequired": true,
+                     "type": "Required",
+                     "messageText": "A value is required"
+                  },
+                  {
+                     "$type": "Mapping.Models.Base.ValidValidationVM, Mapping",
+                     "regex": "",
+                     "type": "Valid",
+                     "messageText": "The value is invalid"
+                  }
+               ],
+               "isMultiSelect": false,
+               "isVisible": true,
+               "defaultValue": null,
+               "propertyType": "ControlNumber",
+               "propertyLabel": {
+                  "id": "e960e602-ca01-4817-a403-a7f600ddfbc8",
+                  "cultureCode": "",
+                  "value": "Control Number"
+               },
+               "propertyBehavior": "Classification",
+               "customAttributes": [
+                  {
+                     "name": "Sequences",
+                     "type": "EntityList",
+                     "value": {
+                        "$type": "System.Collections.Generic.List`1[[Mapping.Models.Base.SequenceVM, Mapping]], mscorlib",
+                        "$values": [
+                           {
+                              "prefix": "ROLE-",
+                              "suffix": "",
+                              "nextSequenceNumber": 51,
+                              "increment": 0,
+                              "isGlobal": true,
+                              "familyId": "00000000-0000-0000-0000-000000000000",
+                              "isFamily": false,
+                              "cultureCode": "",
+                              "id": "152fed89-7f57-441d-92bb-a7f600ddcda0",
+                              "entityType": "Sequence",
+                              "label": "Application Role Sequence",
+                              "operation": "NoOp"
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "name": "SequencingType",
+                     "type": "Category",
+                     "value": {
+                        "$type": "Mapping.Models.Configs.EnumChoiceItemVM, Mapping",
+                        "value": "Auto",
+                        "enumType": "CPCore.SequencingType, CPCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                        "familyId": "00000000-0000-0000-0000-000000000000",
+                        "isFamily": false,
+                        "cultureCode": null,
+                        "id": "39be95a6-0fae-4996-83d5-fc7e6daae044",
+                        "entityType": "NotSpecified",
+                        "label": "Auto",
+                        "operation": "NoOp"
+                     }
+                  },
+                  {
+                     "name": "DefaultVersion",
+                     "type": "Text",
+                     "value": "0"
+                  }
+               ],
+               "id": "2cde6513-622d-42b0-b416-a7f600ddfbc8",
+               "entityType": "ControlNumberPropertyConfig",
+               "label": null,
+               "operation": "NoOp"
+            },
+            "name": null,
+            "valueVM": {
+               "$type": "CPCore.ControlNumberValue, CPCore",
+               "prefix": "ROLE-",
+               "suffix": "",
+               "sequenceNumber": 2,
+               "controlNumberString": "ROLE-00002",
+               "sequenceType": "Auto",
+               "version": "0",
+               "draftVersion": null,
+               "configId": "00000000-0000-0000-0000-000000000000"
+            },
+            "isEditable": false,
+            "id": "ca0c5efe-4c45-494c-8238-a7f600de9fef",
+            "entityType": "ControlNumberPropertyContent",
+            "label": "Control Number",
+            "operation": "NoOp"
+         },
+         "configId": "6bfffa8b-796d-4601-a9e2-a7f600ddcd79"
+      }
+   ],
+   "familyId": "07641e43-3c2a-4c5c-9945-a7f600de9fef",
+   "isFamily": false,
+   "cultureCode": "",
+   "id": "bb3fd941-2d8a-4b01-a6e5-a7f600de9fef",
+   "entityType": "Document",
+   "label": "Super Admin Role",
+   "operation": "NoOp"
+}

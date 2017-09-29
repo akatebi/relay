@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recorder onChangeContent 1`] = `Object {}`;
+
+exports[`Recorder onChangeContent 2`] = `
+Object {
+  "customProperties": Object {
+    "Number0": Array [
+      Object {
+        "id": "0",
+        "valueVM": 1,
+      },
+    ],
+    "Number1": Array [
+      Object {
+        "id": "1",
+        "valueVM": 2,
+      },
+    ],
+    "Number2": Array [
+      Object {
+        "id": "2",
+        "valueVM": 3,
+      },
+    ],
+    "Number3": Array [
+      Object {
+        "id": "3",
+        "valueVM": 4,
+      },
+    ],
+    "Number4": Array [
+      Object {
+        "id": "4",
+        "valueVM": 5,
+      },
+    ],
+    "Number5": Array [
+      Object {
+        "id": "5",
+        "valueVM": 6,
+      },
+    ],
+    "Number6": Array [
+      Object {
+        "id": "6",
+        "valueVM": 7,
+      },
+    ],
+    "Number7": Array [
+      Object {
+        "id": "7",
+        "valueVM": 8,
+      },
+    ],
+    "Number8": Array [
+      Object {
+        "id": "8",
+        "valueVM": 9,
+      },
+    ],
+    "Number9": Array [
+      Object {
+        "id": "9",
+        "valueVM": 10,
+      },
+    ],
+  },
+  "identities": Object {
+    "Number0": Array [
+      Object {
+        "id": "0",
+        "valueVM": 1,
+      },
+    ],
+    "Number1": Array [
+      Object {
+        "id": "1",
+        "valueVM": 2,
+      },
+    ],
+    "Number2": Array [
+      Object {
+        "id": "2",
+        "valueVM": 3,
+      },
+    ],
+    "Number3": Array [
+      Object {
+        "id": "3",
+        "valueVM": 4,
+      },
+    ],
+    "Number4": Array [
+      Object {
+        "id": "4",
+        "valueVM": 5,
+      },
+    ],
+    "Number5": Array [
+      Object {
+        "id": "5",
+        "valueVM": 6,
+      },
+    ],
+    "Number6": Array [
+      Object {
+        "id": "6",
+        "valueVM": 7,
+      },
+    ],
+    "Number7": Array [
+      Object {
+        "id": "7",
+        "valueVM": 8,
+      },
+    ],
+    "Number8": Array [
+      Object {
+        "id": "8",
+        "valueVM": 9,
+      },
+    ],
+    "Number9": Array [
+      Object {
+        "id": "9",
+        "valueVM": 10,
+      },
+    ],
+  },
+}
+`;
+
+exports[`Recorder onChangeContent 3`] = `Object {}`;

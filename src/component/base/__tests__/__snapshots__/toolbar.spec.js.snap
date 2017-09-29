@@ -1,0 +1,3040 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`toolbar Action 1`] = `Array []`;
+
+exports[`toolbar ApplicationRole 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar ApplicationRole 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:30:33.073Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:30:33.1Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar ApprovalCycleConfig 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar ApprovalCycleConfig 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:33.63Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:34.057Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar AssociationConfig 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar AssociationConfig 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:34:56.997Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:34:57.04Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar CategoryHierarchy 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar CategoryHierarchy 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:30.003Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:30.023Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar CharacteristicConfig 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar CharacteristicConfig 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:42.187Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:42.237Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar ChoiceList 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar ChoiceList 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:29.933Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:29.96Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar DictionaryEntry 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar DictionaryEntry 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:24.543Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:24.567Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar Document 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar Document 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:34:50.343Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:34:58.183Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Draft",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Draft",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [
+          Object {
+            "toolbarKey": "btn_submit_review",
+            "toolbarName": "for Review",
+          },
+          Object {
+            "toolbarKey": "btn_submit_approval",
+            "toolbarName": "for Approval",
+          },
+        ],
+        "toolbarKey": "btn_submit",
+        "toolbarName": "Submit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar DocumentClass 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar DocumentClass 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:30:36.807Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:30:36.883Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar DocumentType 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar DocumentType 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:27:42.52Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:06.043Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar Layout 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar Layout 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:29:34.73Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:29:34.747Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar LifeCycleConfig 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar LifeCycleConfig 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:29:34.447Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:29:34.48Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar LineItemConfig 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar LineItemConfig 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:30:01.16Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:30:01.183Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar NavigationHierarchy 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar NavigationHierarchy 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:44.193Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:44.23Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar NavigationNode 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar NavigationNode 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:32:43.71Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:32:43.737Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar Organization 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar Organization 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:30:31.163Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:30:31.19Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar OrganizationHierarchy 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar OrganizationHierarchy 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:30:31.107Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:30:31.153Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar SectionConfig 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar SectionConfig 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:29:35.993Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:29:36.02Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;
+
+exports[`toolbar User 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`toolbar User 2`] = `
+Object {
+  "approvalCycleToolbar": Object {
+    "editMode": Array [],
+    "id": "approvalCycleToolbar ID",
+    "readMode": Array [],
+  },
+  "identity": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "lifeCycle": Object {
+      "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      "lifeCycleStateContents": Array [
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Approved",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Archived",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "New",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Draft",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Superseded",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Released",
+        },
+        Object {
+          "entityType": "LifeCycleStateContent",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+          "state": "Deleted",
+        },
+      ],
+    },
+    "standardProperties": Array [
+      Object {
+        "label": "Visible",
+        "name": "Rev_Visible",
+        "valueVM": "true",
+      },
+      Object {
+        "label": "CreateDate",
+        "name": "Rev_Utc_Created",
+        "valueVM": "2017-09-22T13:30:29.91Z",
+      },
+      Object {
+        "label": "LastSavedDate",
+        "name": "Rev_Utc_LastSaved",
+        "valueVM": "2017-09-22T13:30:29.933Z",
+      },
+      Object {
+        "label": "State",
+        "name": "Rev_State",
+        "valueVM": "Released",
+      },
+      Object {
+        "label": "FullStatus",
+        "name": "Rev_FullStatus",
+        "valueVM": "Released",
+      },
+    ],
+  },
+  "lockStatus": Object {
+    "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-lock",
+  },
+  "toolbar": Object {
+    "editMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_save",
+        "toolbarName": "Save",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_cancel",
+        "toolbarName": "Cancel",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+    "id": "toolbar ID",
+    "readMode": Array [
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_edit",
+        "toolbarName": "Edit",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_modify",
+        "toolbarName": "Modify",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_makeCopy",
+        "toolbarName": "Make Copy",
+      },
+      Object {
+        "children": Array [],
+        "toolbarKey": "btn_close",
+        "toolbarName": "Close",
+      },
+    ],
+  },
+}
+`;

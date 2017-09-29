@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recorder changeConfig defaultValue 1`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "defaultValue": Object {
+        "Boolean": false,
+      },
+      "id": 0,
+    },
+    Object {
+      "defaultValue": Object {
+        "Boolean": false,
+      },
+      "id": 1,
+    },
+  ],
+}
+`;
+
+exports[`Recorder changeConfig defaultValue 2`] = `Object {}`;
+
+exports[`Recorder changeConfig defaultValue 3`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "defaultValue": Object {
+        "Category": Object {
+          "a": 2,
+        },
+      },
+      "id": 0,
+    },
+    Object {
+      "defaultValue": Object {
+        "Category": Object {
+          "a": 2,
+        },
+      },
+      "id": 1,
+    },
+  ],
+}
+`;
+
+exports[`Recorder changeConfig defaultValue 4`] = `Object {}`;

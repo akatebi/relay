@@ -1,0 +1,57 @@
+@import "@{modules}/react-redux-toastr/src/less/index";
+
+.redux-toastr {
+
+  @percentage: 15%;
+
+  .toastr {
+    background-color: #fcfcfc;
+    // box-shadow: 2px 2px 10px #ccc;
+
+    &:hover {
+      // box-shadow: 0px 0px 10px #777;
+    }
+
+    .message-holder {
+      font-family: Arial, Helvetica, sans-serif, sans-serif;
+    }
+
+    &.info, &.success, &.warning, &.error {
+      color: @text-color;
+      font-weight: bold;
+      font-size: 14px;
+    }
+
+    &.info {
+      // background-color: #58abc3;
+      background-color: lighten(@brand-info, @percentage);
+    }
+
+    &.success {
+      // background-color: #60bb71;
+      background-color: lighten(@brand-success, @percentage);
+    }
+
+    &.warning {
+      // background-color: #f7a336;
+      background-color: lighten(@brand-warning, @percentage);
+    }
+
+    &.error {
+      // background-color: #db6a64;
+      background-color: lighten(@brand-danger, @percentage);
+    }
+
+    &.message {
+      border: 1px solid #dbdbdb;
+
+      .message-holder {
+        .message {
+          border-top: 1px solid #f1f1f1;
+          border-bottom: 1px solid #f1f1f1;
+          background-color: white;
+        }
+      }
+    }
+  }
+}

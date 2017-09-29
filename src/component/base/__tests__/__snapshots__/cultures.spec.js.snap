@@ -1,0 +1,1088 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cultures 1`] = `
+Object {
+  "cultures": Object {
+    "all": Array [
+      Object {
+        "cultureCode": "af-ZA",
+        "displayName": "Afrikaans (South Africa)",
+        "nativeName": "Afrikaans (Suid Afrika)",
+      },
+      Object {
+        "cultureCode": "am-ET",
+        "displayName": "Amharic (Ethiopia)",
+        "nativeName": "አማርኛ (ኢትዮጵያ)",
+      },
+      Object {
+        "cultureCode": "ar-AE",
+        "displayName": "Arabic (U.A.E.)",
+        "nativeName": "العربية (الإمارات العربية المتحدة)",
+      },
+      Object {
+        "cultureCode": "ar-BH",
+        "displayName": "Arabic (Bahrain)",
+        "nativeName": "العربية (البحرين)",
+      },
+      Object {
+        "cultureCode": "ar-DZ",
+        "displayName": "Arabic (Algeria)",
+        "nativeName": "العربية (الجزائر)",
+      },
+      Object {
+        "cultureCode": "ar-EG",
+        "displayName": "Arabic (Egypt)",
+        "nativeName": "العربية (مصر)",
+      },
+      Object {
+        "cultureCode": "ar-IQ",
+        "displayName": "Arabic (Iraq)",
+        "nativeName": "العربية (العراق)",
+      },
+      Object {
+        "cultureCode": "ar-JO",
+        "displayName": "Arabic (Jordan)",
+        "nativeName": "العربية (الأردن)",
+      },
+      Object {
+        "cultureCode": "ar-KW",
+        "displayName": "Arabic (Kuwait)",
+        "nativeName": "العربية (الكويت)",
+      },
+      Object {
+        "cultureCode": "ar-LB",
+        "displayName": "Arabic (Lebanon)",
+        "nativeName": "العربية (لبنان)",
+      },
+      Object {
+        "cultureCode": "ar-LY",
+        "displayName": "Arabic (Libya)",
+        "nativeName": "العربية (ليبيا)",
+      },
+      Object {
+        "cultureCode": "ar-MA",
+        "displayName": "Arabic (Morocco)",
+        "nativeName": "العربية (المملكة المغربية)",
+      },
+      Object {
+        "cultureCode": "arn-CL",
+        "displayName": "Mapudungun (Chile)",
+        "nativeName": "Mapudungun (Chile)",
+      },
+      Object {
+        "cultureCode": "ar-OM",
+        "displayName": "Arabic (Oman)",
+        "nativeName": "العربية (عمان)",
+      },
+      Object {
+        "cultureCode": "ar-QA",
+        "displayName": "Arabic (Qatar)",
+        "nativeName": "العربية (قطر)",
+      },
+      Object {
+        "cultureCode": "ar-SA",
+        "displayName": "Arabic (Saudi Arabia)",
+        "nativeName": "العربية (المملكة العربية السعودية)",
+      },
+      Object {
+        "cultureCode": "ar-SY",
+        "displayName": "Arabic (Syria)",
+        "nativeName": "العربية (سوريا)",
+      },
+      Object {
+        "cultureCode": "ar-TN",
+        "displayName": "Arabic (Tunisia)",
+        "nativeName": "العربية (تونس)",
+      },
+      Object {
+        "cultureCode": "ar-YE",
+        "displayName": "Arabic (Yemen)",
+        "nativeName": "العربية (اليمن)",
+      },
+      Object {
+        "cultureCode": "as-IN",
+        "displayName": "Assamese (India)",
+        "nativeName": "অসমীয়া (ভাৰত)",
+      },
+      Object {
+        "cultureCode": "az-CYRL-AZ",
+        "displayName": "Azerbaijani (Cyrillic, Azerbaijan)",
+        "nativeName": "Азәрбајҹан (Азәрбајҹан)",
+      },
+      Object {
+        "cultureCode": "az-LATN-AZ",
+        "displayName": "Azerbaijani (Latin, Azerbaijan)",
+        "nativeName": "Azərbaycan­ılı (Azərbaycan)",
+      },
+      Object {
+        "cultureCode": "ba-RU",
+        "displayName": "Bashkir (Russia)",
+        "nativeName": "Башҡорт (Россия)",
+      },
+      Object {
+        "cultureCode": "be-BY",
+        "displayName": "Belarusian (Belarus)",
+        "nativeName": "Беларускі (Беларусь)",
+      },
+      Object {
+        "cultureCode": "bg-BG",
+        "displayName": "Bulgarian (Bulgaria)",
+        "nativeName": "български (България)",
+      },
+      Object {
+        "cultureCode": "bn-BD",
+        "displayName": "Bangla (Bangladesh)",
+        "nativeName": "বাংলা (বাংলাদেশ)",
+      },
+      Object {
+        "cultureCode": "bn-IN",
+        "displayName": "Bangla (India)",
+        "nativeName": "বাংলা (ভারত)",
+      },
+      Object {
+        "cultureCode": "bo-CN",
+        "displayName": "Tibetan (PRC)",
+        "nativeName": "བོད་ཡིག (ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ།)",
+      },
+      Object {
+        "cultureCode": "br-FR",
+        "displayName": "Breton (France)",
+        "nativeName": "brezhoneg (Frañs)",
+      },
+      Object {
+        "cultureCode": "bs-CYRL-BA",
+        "displayName": "Bosnian (Cyrillic, Bosnia and Herzegovina)",
+        "nativeName": "босански (Босна и Херцеговина)",
+      },
+      Object {
+        "cultureCode": "bs-LATN-BA",
+        "displayName": "Bosnian (Latin, Bosnia and Herzegovina)",
+        "nativeName": "bosanski (Bosna i Hercegovina)",
+      },
+      Object {
+        "cultureCode": "ca-ES",
+        "displayName": "Catalan (Catalan)",
+        "nativeName": "català (català)",
+      },
+      Object {
+        "cultureCode": "co-FR",
+        "displayName": "Corsican (France)",
+        "nativeName": "Corsu (France)",
+      },
+      Object {
+        "cultureCode": "cs-CZ",
+        "displayName": "Czech (Czech Republic)",
+        "nativeName": "čeština (Česká republika)",
+      },
+      Object {
+        "cultureCode": "cy-GB",
+        "displayName": "Welsh (United Kingdom)",
+        "nativeName": "Cymraeg (y Deyrnas Unedig)",
+      },
+      Object {
+        "cultureCode": "da-DK",
+        "displayName": "Danish (Denmark)",
+        "nativeName": "dansk (Danmark)",
+      },
+      Object {
+        "cultureCode": "de-AT",
+        "displayName": "German (Austria)",
+        "nativeName": "Deutsch (Österreich)",
+      },
+      Object {
+        "cultureCode": "de-CH",
+        "displayName": "German (Switzerland)",
+        "nativeName": "Deutsch (Schweiz)",
+      },
+      Object {
+        "cultureCode": "de-DE",
+        "displayName": "German (Germany)",
+        "nativeName": "Deutsch (Deutschland)",
+      },
+      Object {
+        "cultureCode": "de-LI",
+        "displayName": "German (Liechtenstein)",
+        "nativeName": "Deutsch (Liechtenstein)",
+      },
+      Object {
+        "cultureCode": "de-LU",
+        "displayName": "German (Luxembourg)",
+        "nativeName": "Deutsch (Luxemburg)",
+      },
+      Object {
+        "cultureCode": "dsb-DE",
+        "displayName": "Lower Sorbian (Germany)",
+        "nativeName": "dolnoserbšćina (Nimska)",
+      },
+      Object {
+        "cultureCode": "dv-MV",
+        "displayName": "Divehi (Maldives)",
+        "nativeName": "ދިވެހިބަސް (ދިވެހި ރާއްޖެ)",
+      },
+      Object {
+        "cultureCode": "el-GR",
+        "displayName": "Greek (Greece)",
+        "nativeName": "Ελληνικά (Ελλάδα)",
+      },
+      Object {
+        "cultureCode": "en-029",
+        "displayName": "English (Caribbean)",
+        "nativeName": "English (Caribbean)",
+      },
+      Object {
+        "cultureCode": "en-AU",
+        "displayName": "English (Australia)",
+        "nativeName": "English (Australia)",
+      },
+      Object {
+        "cultureCode": "en-BZ",
+        "displayName": "English (Belize)",
+        "nativeName": "English (Belize)",
+      },
+      Object {
+        "cultureCode": "en-CA",
+        "displayName": "English (Canada)",
+        "nativeName": "English (Canada)",
+      },
+      Object {
+        "cultureCode": "en-GB",
+        "displayName": "English (United Kingdom)",
+        "nativeName": "English (United Kingdom)",
+      },
+      Object {
+        "cultureCode": "en-IE",
+        "displayName": "English (Ireland)",
+        "nativeName": "English (Ireland)",
+      },
+      Object {
+        "cultureCode": "en-IN",
+        "displayName": "English (India)",
+        "nativeName": "English (India)",
+      },
+      Object {
+        "cultureCode": "en-JM",
+        "displayName": "English (Jamaica)",
+        "nativeName": "English (Jamaica)",
+      },
+      Object {
+        "cultureCode": "en-MY",
+        "displayName": "English (Malaysia)",
+        "nativeName": "English (Malaysia)",
+      },
+      Object {
+        "cultureCode": "en-NZ",
+        "displayName": "English (New Zealand)",
+        "nativeName": "English (New Zealand)",
+      },
+      Object {
+        "cultureCode": "en-PH",
+        "displayName": "English (Republic of the Philippines)",
+        "nativeName": "English (Philippines)",
+      },
+      Object {
+        "cultureCode": "en-SG",
+        "displayName": "English (Singapore)",
+        "nativeName": "English (Singapore)",
+      },
+      Object {
+        "cultureCode": "en-TT",
+        "displayName": "English (Trinidad and Tobago)",
+        "nativeName": "English (Trinidad y Tobago)",
+      },
+      Object {
+        "cultureCode": "en-US",
+        "displayName": "English (United States)",
+        "nativeName": "English (United States)",
+      },
+      Object {
+        "cultureCode": "en-ZA",
+        "displayName": "English (South Africa)",
+        "nativeName": "English (South Africa)",
+      },
+      Object {
+        "cultureCode": "en-ZW",
+        "displayName": "English (Zimbabwe)",
+        "nativeName": "English (Zimbabwe)",
+      },
+      Object {
+        "cultureCode": "es-AR",
+        "displayName": "Spanish (Argentina)",
+        "nativeName": "Español (Argentina)",
+      },
+      Object {
+        "cultureCode": "es-BO",
+        "displayName": "Spanish (Bolivia)",
+        "nativeName": "Español (Bolivia)",
+      },
+      Object {
+        "cultureCode": "es-CL",
+        "displayName": "Spanish (Chile)",
+        "nativeName": "Español (Chile)",
+      },
+      Object {
+        "cultureCode": "es-CO",
+        "displayName": "Spanish (Colombia)",
+        "nativeName": "Español (Colombia)",
+      },
+      Object {
+        "cultureCode": "es-CR",
+        "displayName": "Spanish (Costa Rica)",
+        "nativeName": "Español (Costa Rica)",
+      },
+      Object {
+        "cultureCode": "es-DO",
+        "displayName": "Spanish (Dominican Republic)",
+        "nativeName": "Español (República Dominicana)",
+      },
+      Object {
+        "cultureCode": "es-EC",
+        "displayName": "Spanish (Ecuador)",
+        "nativeName": "Español (Ecuador)",
+      },
+      Object {
+        "cultureCode": "es-ES",
+        "displayName": "Spanish (Spain)",
+        "nativeName": "Español (España, alfabetización internacional)",
+      },
+      Object {
+        "cultureCode": "es-GT",
+        "displayName": "Spanish (Guatemala)",
+        "nativeName": "Español (Guatemala)",
+      },
+      Object {
+        "cultureCode": "es-HN",
+        "displayName": "Spanish (Honduras)",
+        "nativeName": "Español (Honduras)",
+      },
+      Object {
+        "cultureCode": "es-MX",
+        "displayName": "Spanish (Mexico)",
+        "nativeName": "Español (México)",
+      },
+      Object {
+        "cultureCode": "es-NI",
+        "displayName": "Spanish (Nicaragua)",
+        "nativeName": "Español (Nicaragua)",
+      },
+      Object {
+        "cultureCode": "es-PA",
+        "displayName": "Spanish (Panama)",
+        "nativeName": "Español (Panamá)",
+      },
+      Object {
+        "cultureCode": "es-PE",
+        "displayName": "Spanish (Peru)",
+        "nativeName": "Español (Perú)",
+      },
+      Object {
+        "cultureCode": "es-PR",
+        "displayName": "Spanish (Puerto Rico)",
+        "nativeName": "Español (Puerto Rico)",
+      },
+      Object {
+        "cultureCode": "es-PY",
+        "displayName": "Spanish (Paraguay)",
+        "nativeName": "Español (Paraguay)",
+      },
+      Object {
+        "cultureCode": "es-SV",
+        "displayName": "Spanish (El Salvador)",
+        "nativeName": "Español (El Salvador)",
+      },
+      Object {
+        "cultureCode": "es-US",
+        "displayName": "Spanish (United States)",
+        "nativeName": "Español (Estados Unidos)",
+      },
+      Object {
+        "cultureCode": "es-UY",
+        "displayName": "Spanish (Uruguay)",
+        "nativeName": "Español (Uruguay)",
+      },
+      Object {
+        "cultureCode": "es-VE",
+        "displayName": "Spanish (Bolivarian Republic of Venezuela)",
+        "nativeName": "Español (Republica Bolivariana de Venezuela)",
+      },
+      Object {
+        "cultureCode": "et-EE",
+        "displayName": "Estonian (Estonia)",
+        "nativeName": "eesti (Eesti)",
+      },
+      Object {
+        "cultureCode": "eu-ES",
+        "displayName": "Basque (Basque)",
+        "nativeName": "euskara (euskara)",
+      },
+      Object {
+        "cultureCode": "fa-IR",
+        "displayName": "Persian (Iran)",
+        "nativeName": "فارسى (ایران)",
+      },
+      Object {
+        "cultureCode": "fi-FI",
+        "displayName": "Finnish (Finland)",
+        "nativeName": "suomi (Suomi)",
+      },
+      Object {
+        "cultureCode": "fil-PH",
+        "displayName": "Filipino (Philippines)",
+        "nativeName": "Filipino (Pilipinas)",
+      },
+      Object {
+        "cultureCode": "fo-FO",
+        "displayName": "Faroese (Faroe Islands)",
+        "nativeName": "føroyskt (Føroyar)",
+      },
+      Object {
+        "cultureCode": "fr-BE",
+        "displayName": "French (Belgium)",
+        "nativeName": "français (Belgique)",
+      },
+      Object {
+        "cultureCode": "fr-CA",
+        "displayName": "French (Canada)",
+        "nativeName": "français (Canada)",
+      },
+      Object {
+        "cultureCode": "fr-CH",
+        "displayName": "French (Switzerland)",
+        "nativeName": "français (Suisse)",
+      },
+      Object {
+        "cultureCode": "fr-FR",
+        "displayName": "French (France)",
+        "nativeName": "français (France)",
+      },
+      Object {
+        "cultureCode": "fr-LU",
+        "displayName": "French (Luxembourg)",
+        "nativeName": "français (Luxembourg)",
+      },
+      Object {
+        "cultureCode": "fr-MC",
+        "displayName": "French (Monaco)",
+        "nativeName": "français (Principauté de Monaco)",
+      },
+      Object {
+        "cultureCode": "fy-NL",
+        "displayName": "Frisian (Netherlands)",
+        "nativeName": "Frysk (Nederlân)",
+      },
+      Object {
+        "cultureCode": "ga-IE",
+        "displayName": "Irish (Ireland)",
+        "nativeName": "Gaeilge (Éire)",
+      },
+      Object {
+        "cultureCode": "gd-GB",
+        "displayName": "Scottish Gaelic (United Kingdom)",
+        "nativeName": "Gàidhlig (An Rìoghachd Aonaichte)",
+      },
+      Object {
+        "cultureCode": "gl-ES",
+        "displayName": "Galician (Galician)",
+        "nativeName": "galego (galego)",
+      },
+      Object {
+        "cultureCode": "gsw-FR",
+        "displayName": "Alsatian (France)",
+        "nativeName": "Elsässisch (Frànkrisch)",
+      },
+      Object {
+        "cultureCode": "gu-IN",
+        "displayName": "Gujarati (India)",
+        "nativeName": "ગુજરાતી (ભારત)",
+      },
+      Object {
+        "cultureCode": "ha-LATN-NG",
+        "displayName": "Hausa (Latin, Nigeria)",
+        "nativeName": "Hausa (Nigeria)",
+      },
+      Object {
+        "cultureCode": "he-IL",
+        "displayName": "Hebrew (Israel)",
+        "nativeName": "עברית (ישראל)",
+      },
+      Object {
+        "cultureCode": "hi-IN",
+        "displayName": "Hindi (India)",
+        "nativeName": "हिंदी (भारत)",
+      },
+      Object {
+        "cultureCode": "hr-BA",
+        "displayName": "Croatian (Latin, Bosnia and Herzegovina)",
+        "nativeName": "hrvatski (Bosna i Hercegovina)",
+      },
+      Object {
+        "cultureCode": "hr-HR",
+        "displayName": "Croatian (Croatia)",
+        "nativeName": "hrvatski (Hrvatska)",
+      },
+      Object {
+        "cultureCode": "hsb-DE",
+        "displayName": "Upper Sorbian (Germany)",
+        "nativeName": "hornjoserbšćina (Němska)",
+      },
+      Object {
+        "cultureCode": "hu-HU",
+        "displayName": "Hungarian (Hungary)",
+        "nativeName": "magyar (Magyarország)",
+      },
+      Object {
+        "cultureCode": "hy-AM",
+        "displayName": "Armenian (Armenia)",
+        "nativeName": "Հայերեն (Հայաստան)",
+      },
+      Object {
+        "cultureCode": "id-ID",
+        "displayName": "Indonesian (Indonesia)",
+        "nativeName": "Bahasa Indonesia (Indonesia)",
+      },
+      Object {
+        "cultureCode": "ig-NG",
+        "displayName": "Igbo (Nigeria)",
+        "nativeName": "Igbo (Nigeria)",
+      },
+      Object {
+        "cultureCode": "ii-CN",
+        "displayName": "Yi (PRC)",
+        "nativeName": "ꆈꌠꁱꂷ (ꍏꉸꏓꂱꇭꉼꇩ)",
+      },
+      Object {
+        "cultureCode": "is-IS",
+        "displayName": "Icelandic (Iceland)",
+        "nativeName": "íslenska (Ísland)",
+      },
+      Object {
+        "cultureCode": "it-CH",
+        "displayName": "Italian (Switzerland)",
+        "nativeName": "italiano (Svizzera)",
+      },
+      Object {
+        "cultureCode": "it-IT",
+        "displayName": "Italian (Italy)",
+        "nativeName": "italiano (Italia)",
+      },
+      Object {
+        "cultureCode": "iu-CANS-CA",
+        "displayName": "Inuktitut (Syllabics, Canada)",
+        "nativeName": "ᐃᓄᒃᑎᑐᑦ (ᑲᓇᑕᒥ)",
+      },
+      Object {
+        "cultureCode": "iu-LATN-CA",
+        "displayName": "Inuktitut (Latin, Canada)",
+        "nativeName": "Inuktitut (Kanatami)",
+      },
+      Object {
+        "cultureCode": "ja-JP",
+        "displayName": "Japanese (Japan)",
+        "nativeName": "日本語 (日本)",
+      },
+      Object {
+        "cultureCode": "ka-GE",
+        "displayName": "Georgian (Georgia)",
+        "nativeName": "ქართული (საქართველო)",
+      },
+      Object {
+        "cultureCode": "kk-KZ",
+        "displayName": "Kazakh (Kazakhstan)",
+        "nativeName": "Қазақ (Қазақстан)",
+      },
+      Object {
+        "cultureCode": "kl-GL",
+        "displayName": "Greenlandic (Greenland)",
+        "nativeName": "kalaallisut (Kalaallit Nunaat)",
+      },
+      Object {
+        "cultureCode": "km-KH",
+        "displayName": "Khmer (Cambodia)",
+        "nativeName": "ខ្មែរ (កម្ពុជា)",
+      },
+      Object {
+        "cultureCode": "kn-IN",
+        "displayName": "Kannada (India)",
+        "nativeName": "ಕನ್ನಡ (ಭಾರತ)",
+      },
+      Object {
+        "cultureCode": "kok-IN",
+        "displayName": "Konkani (India)",
+        "nativeName": "कोंकणी (भारत)",
+      },
+      Object {
+        "cultureCode": "ko-KR",
+        "displayName": "Korean (Korea)",
+        "nativeName": "한국어 (대한민국)",
+      },
+      Object {
+        "cultureCode": "ky-KG",
+        "displayName": "Kyrgyz (Kyrgyzstan)",
+        "nativeName": "Кыргыз (Кыргызстан)",
+      },
+      Object {
+        "cultureCode": "lb-LU",
+        "displayName": "Luxembourgish (Luxembourg)",
+        "nativeName": "Lëtzebuergesch (Luxembourg)",
+      },
+      Object {
+        "cultureCode": "lo-LA",
+        "displayName": "Lao (Lao P.D.R.)",
+        "nativeName": "ລາວ (ສ.ປ.ປ. ລາວ)",
+      },
+      Object {
+        "cultureCode": "lt-LT",
+        "displayName": "Lithuanian (Lithuania)",
+        "nativeName": "lietuvių (Lietuva)",
+      },
+      Object {
+        "cultureCode": "lv-LV",
+        "displayName": "Latvian (Latvia)",
+        "nativeName": "latviešu (Latvija)",
+      },
+      Object {
+        "cultureCode": "mi-NZ",
+        "displayName": "Maori (New Zealand)",
+        "nativeName": "Reo Māori (Aotearoa)",
+      },
+      Object {
+        "cultureCode": "mk-MK",
+        "displayName": "Macedonian (Former Yugoslav Republic of Macedonia)",
+        "nativeName": "македонски јазик (Македонија)",
+      },
+      Object {
+        "cultureCode": "ml-IN",
+        "displayName": "Malayalam (India)",
+        "nativeName": "മലയാളം (ഭാരതം)",
+      },
+      Object {
+        "cultureCode": "mn-MN",
+        "displayName": "Mongolian (Cyrillic, Mongolia)",
+        "nativeName": "Монгол хэл (Монгол улс)",
+      },
+      Object {
+        "cultureCode": "mn-MONG-CN",
+        "displayName": "Mongolian (Traditional Mongolian, PRC)",
+        "nativeName": "ᠮᠤᠨᠭᠭᠤᠯ ᠬᠡᠯᠡ (ᠪᠦᠭᠦᠳᠡ ᠨᠠᠢᠷᠠᠮᠳᠠᠬᠤ ᠳᠤᠮᠳᠠᠳᠤ ᠠᠷᠠᠳ ᠣᠯᠣᠰ)",
+      },
+      Object {
+        "cultureCode": "moh-CA",
+        "displayName": "Mohawk (Mohawk)",
+        "nativeName": "Kanien'kéha",
+      },
+      Object {
+        "cultureCode": "mr-IN",
+        "displayName": "Marathi (India)",
+        "nativeName": "मराठी (भारत)",
+      },
+      Object {
+        "cultureCode": "ms-BN",
+        "displayName": "Malay (Brunei Darussalam)",
+        "nativeName": "Bahasa Melayu (Brunei Darussalam)",
+      },
+      Object {
+        "cultureCode": "ms-MY",
+        "displayName": "Malay (Malaysia)",
+        "nativeName": "Bahasa Melayu (Malaysia)",
+      },
+      Object {
+        "cultureCode": "mt-MT",
+        "displayName": "Maltese (Malta)",
+        "nativeName": "Malti (Malta)",
+      },
+      Object {
+        "cultureCode": "nb-NO",
+        "displayName": "Norwegian, Bokmål (Norway)",
+        "nativeName": "norsk, bokmål (Norge)",
+      },
+      Object {
+        "cultureCode": "ne-NP",
+        "displayName": "Nepali (Nepal)",
+        "nativeName": "नेपाली (नेपाल)",
+      },
+      Object {
+        "cultureCode": "nl-BE",
+        "displayName": "Dutch (Belgium)",
+        "nativeName": "Nederlands (België)",
+      },
+      Object {
+        "cultureCode": "nl-NL",
+        "displayName": "Dutch (Netherlands)",
+        "nativeName": "Nederlands (Nederland)",
+      },
+      Object {
+        "cultureCode": "nn-NO",
+        "displayName": "Norwegian, Nynorsk (Norway)",
+        "nativeName": "norsk, nynorsk (Noreg)",
+      },
+      Object {
+        "cultureCode": "nso-ZA",
+        "displayName": "Sesotho sa Leboa (South Africa)",
+        "nativeName": "Sesotho sa Leboa (Afrika Borwa)",
+      },
+      Object {
+        "cultureCode": "oc-FR",
+        "displayName": "Occitan (France)",
+        "nativeName": "Occitan (França)",
+      },
+      Object {
+        "cultureCode": "or-IN",
+        "displayName": "Odia (India)",
+        "nativeName": "ଓଡ଼ିଆ (ଭାରତ)",
+      },
+      Object {
+        "cultureCode": "pa-IN",
+        "displayName": "Punjabi (India)",
+        "nativeName": "ਪੰਜਾਬੀ (ਭਾਰਤ)",
+      },
+      Object {
+        "cultureCode": "pl-PL",
+        "displayName": "Polish (Poland)",
+        "nativeName": "polski (Polska)",
+      },
+      Object {
+        "cultureCode": "prs-AF",
+        "displayName": "Dari (Afghanistan)",
+        "nativeName": "درى (افغانستان)",
+      },
+      Object {
+        "cultureCode": "ps-AF",
+        "displayName": "Pashto (Afghanistan)",
+        "nativeName": "پښتو (افغانستان)",
+      },
+      Object {
+        "cultureCode": "pt-BR",
+        "displayName": "Portuguese (Brazil)",
+        "nativeName": "Português (Brasil)",
+      },
+      Object {
+        "cultureCode": "pt-PT",
+        "displayName": "Portuguese (Portugal)",
+        "nativeName": "português (Portugal)",
+      },
+      Object {
+        "cultureCode": "qut-GT",
+        "displayName": "K'iche (Guatemala)",
+        "nativeName": "K'iche (Guatemala)",
+      },
+      Object {
+        "cultureCode": "quz-BO",
+        "displayName": "Quechua (Bolivia)",
+        "nativeName": "runasimi (Qullasuyu)",
+      },
+      Object {
+        "cultureCode": "quz-EC",
+        "displayName": "Quechua (Ecuador)",
+        "nativeName": "runasimi (Ecuador)",
+      },
+      Object {
+        "cultureCode": "quz-PE",
+        "displayName": "Quechua (Peru)",
+        "nativeName": "runasimi (Piruw)",
+      },
+      Object {
+        "cultureCode": "rm-CH",
+        "displayName": "Romansh (Switzerland)",
+        "nativeName": "Rumantsch (Svizra)",
+      },
+      Object {
+        "cultureCode": "ro-RO",
+        "displayName": "Romanian (Romania)",
+        "nativeName": "română (România)",
+      },
+      Object {
+        "cultureCode": "ru-RU",
+        "displayName": "Russian (Russia)",
+        "nativeName": "русский (Россия)",
+      },
+      Object {
+        "cultureCode": "rw-RW",
+        "displayName": "Kinyarwanda (Rwanda)",
+        "nativeName": "Kinyarwanda (Rwanda)",
+      },
+      Object {
+        "cultureCode": "sah-RU",
+        "displayName": "Sakha (Russia)",
+        "nativeName": "саха (Россия)",
+      },
+      Object {
+        "cultureCode": "sa-IN",
+        "displayName": "Sanskrit (India)",
+        "nativeName": "संस्कृत (भारतम्)",
+      },
+      Object {
+        "cultureCode": "se-FI",
+        "displayName": "Sami, Northern (Finland)",
+        "nativeName": "davvisámegiella (Suopma)",
+      },
+      Object {
+        "cultureCode": "se-NO",
+        "displayName": "Sami, Northern (Norway)",
+        "nativeName": "davvisámegiella (Norga)",
+      },
+      Object {
+        "cultureCode": "se-SE",
+        "displayName": "Sami, Northern (Sweden)",
+        "nativeName": "davvisámegiella (Ruoŧŧa)",
+      },
+      Object {
+        "cultureCode": "si-LK",
+        "displayName": "Sinhala (Sri Lanka)",
+        "nativeName": "සිංහල (ශ්‍රී ලංකා)",
+      },
+      Object {
+        "cultureCode": "sk-SK",
+        "displayName": "Slovak (Slovakia)",
+        "nativeName": "slovenčina (Slovenská republika)",
+      },
+      Object {
+        "cultureCode": "sl-SI",
+        "displayName": "Slovenian (Slovenia)",
+        "nativeName": "slovenski (Slovenija)",
+      },
+      Object {
+        "cultureCode": "sma-NO",
+        "displayName": "Sami, Southern (Norway)",
+        "nativeName": "åarjelsaemiengiele (Nöörje)",
+      },
+      Object {
+        "cultureCode": "sma-SE",
+        "displayName": "Sami, Southern (Sweden)",
+        "nativeName": "åarjelsaemiengiele (Sveerje)",
+      },
+      Object {
+        "cultureCode": "smj-NO",
+        "displayName": "Sami, Lule (Norway)",
+        "nativeName": "julevusámegiella (Vuodna)",
+      },
+      Object {
+        "cultureCode": "smj-SE",
+        "displayName": "Sami, Lule (Sweden)",
+        "nativeName": "julevusámegiella (Svierik)",
+      },
+      Object {
+        "cultureCode": "smn-FI",
+        "displayName": "Sami, Inari (Finland)",
+        "nativeName": "sämikielâ (Suomâ)",
+      },
+      Object {
+        "cultureCode": "sms-FI",
+        "displayName": "Sami, Skolt (Finland)",
+        "nativeName": "sääm´ǩiõll (Lää´ddjânnam)",
+      },
+      Object {
+        "cultureCode": "sq-AL",
+        "displayName": "Albanian (Albania)",
+        "nativeName": "shqipe (Shqipëria)",
+      },
+      Object {
+        "cultureCode": "sr-CYRL-BA",
+        "displayName": "Serbian (Cyrillic, Bosnia and Herzegovina)",
+        "nativeName": "српски (Босна и Херцеговина)",
+      },
+      Object {
+        "cultureCode": "sr-CYRL-CS",
+        "displayName": "Serbian (Cyrillic, Serbia and Montenegro (Former))",
+        "nativeName": "српски (Србија и Црна Гора (Претходно))",
+      },
+      Object {
+        "cultureCode": "sr-CYRL-ME",
+        "displayName": "Serbian (Cyrillic, Montenegro)",
+        "nativeName": "српски (Црна Гора)",
+      },
+      Object {
+        "cultureCode": "sr-CYRL-RS",
+        "displayName": "Serbian (Cyrillic, Serbia)",
+        "nativeName": "српски (Србија)",
+      },
+      Object {
+        "cultureCode": "sr-LATN-BA",
+        "displayName": "Serbian (Latin, Bosnia and Herzegovina)",
+        "nativeName": "srpski (Bosna i Hercegovina)",
+      },
+      Object {
+        "cultureCode": "sr-LATN-CS",
+        "displayName": "Serbian (Latin, Serbia and Montenegro (Former))",
+        "nativeName": "srpski (Srbija i Crna Gora (Prethodno))",
+      },
+      Object {
+        "cultureCode": "sr-LATN-ME",
+        "displayName": "Serbian (Latin, Montenegro)",
+        "nativeName": "srpski (Crna Gora)",
+      },
+      Object {
+        "cultureCode": "sr-LATN-RS",
+        "displayName": "Serbian (Latin, Serbia)",
+        "nativeName": "srpski (Srbija)",
+      },
+      Object {
+        "cultureCode": "sv-FI",
+        "displayName": "Swedish (Finland)",
+        "nativeName": "svenska (Finland)",
+      },
+      Object {
+        "cultureCode": "sv-SE",
+        "displayName": "Swedish (Sweden)",
+        "nativeName": "svenska (Sverige)",
+      },
+      Object {
+        "cultureCode": "sw-KE",
+        "displayName": "Kiswahili (Kenya)",
+        "nativeName": "Kiswahili (Kenya)",
+      },
+      Object {
+        "cultureCode": "syr-SY",
+        "displayName": "Syriac (Syria)",
+        "nativeName": "ܣܘܪܝܝܐ (سوريا)",
+      },
+      Object {
+        "cultureCode": "ta-IN",
+        "displayName": "Tamil (India)",
+        "nativeName": "தமிழ் (இந்தியா)",
+      },
+      Object {
+        "cultureCode": "te-IN",
+        "displayName": "Telugu (India)",
+        "nativeName": "తెలుగు (భారత దేశం)",
+      },
+      Object {
+        "cultureCode": "tg-CYRL-TJ",
+        "displayName": "Tajik (Cyrillic, Tajikistan)",
+        "nativeName": "Тоҷикӣ (Тоҷикистон)",
+      },
+      Object {
+        "cultureCode": "th-TH",
+        "displayName": "Thai (Thailand)",
+        "nativeName": "ไทย (ไทย)",
+      },
+      Object {
+        "cultureCode": "tk-TM",
+        "displayName": "Turkmen (Turkmenistan)",
+        "nativeName": "türkmençe (Türkmenistan)",
+      },
+      Object {
+        "cultureCode": "tn-ZA",
+        "displayName": "Setswana (South Africa)",
+        "nativeName": "Setswana (Aforika Borwa)",
+      },
+      Object {
+        "cultureCode": "tr-TR",
+        "displayName": "Turkish (Turkey)",
+        "nativeName": "Türkçe (Türkiye)",
+      },
+      Object {
+        "cultureCode": "tt-RU",
+        "displayName": "Tatar (Russia)",
+        "nativeName": "Татар (Россия)",
+      },
+      Object {
+        "cultureCode": "tzm-LATN-DZ",
+        "displayName": "Tamazight (Latin, Algeria)",
+        "nativeName": "Tamazight (Djazaïr)",
+      },
+      Object {
+        "cultureCode": "ug-CN",
+        "displayName": "Uyghur (PRC)",
+        "nativeName": "ئۇيغۇرچە (جۇڭخۇا خەلق جۇمھۇرىيىتى)",
+      },
+      Object {
+        "cultureCode": "uk-UA",
+        "displayName": "Ukrainian (Ukraine)",
+        "nativeName": "українська (Україна)",
+      },
+      Object {
+        "cultureCode": "ur-PK",
+        "displayName": "Urdu (Islamic Republic of Pakistan)",
+        "nativeName": "اُردو (پاکستان)",
+      },
+      Object {
+        "cultureCode": "uz-CYRL-UZ",
+        "displayName": "Uzbek (Cyrillic, Uzbekistan)",
+        "nativeName": "Ўзбек (Ўзбекистон)",
+      },
+      Object {
+        "cultureCode": "uz-LATN-UZ",
+        "displayName": "Uzbek (Latin, Uzbekistan)",
+        "nativeName": "U'zbek (U'zbekiston Respublikasi)",
+      },
+      Object {
+        "cultureCode": "vi-VN",
+        "displayName": "Vietnamese (Vietnam)",
+        "nativeName": "Tiếng Việt (Việt Nam)",
+      },
+      Object {
+        "cultureCode": "wo-SN",
+        "displayName": "Wolof (Senegal)",
+        "nativeName": "Wolof (Sénégal)",
+      },
+      Object {
+        "cultureCode": "xh-ZA",
+        "displayName": "isiXhosa (South Africa)",
+        "nativeName": "isiXhosa (uMzantsi Afrika)",
+      },
+      Object {
+        "cultureCode": "yo-NG",
+        "displayName": "Yoruba (Nigeria)",
+        "nativeName": "Yoruba (Nigeria)",
+      },
+      Object {
+        "cultureCode": "zh-CN",
+        "displayName": "Chinese (Simplified, PRC)",
+        "nativeName": "中文(中华人民共和国)",
+      },
+      Object {
+        "cultureCode": "zh-HK",
+        "displayName": "Chinese (Traditional, Hong Kong S.A.R.)",
+        "nativeName": "中文(香港特別行政區)",
+      },
+      Object {
+        "cultureCode": "zh-MO",
+        "displayName": "Chinese (Traditional, Macao S.A.R.)",
+        "nativeName": "中文(澳門特別行政區)",
+      },
+      Object {
+        "cultureCode": "zh-SG",
+        "displayName": "Chinese (Simplified, Singapore)",
+        "nativeName": "中文(新加坡)",
+      },
+      Object {
+        "cultureCode": "zh-TW",
+        "displayName": "Chinese (Traditional, Taiwan)",
+        "nativeName": "中文(台灣)",
+      },
+      Object {
+        "cultureCode": "zu-ZA",
+        "displayName": "isiZulu (South Africa)",
+        "nativeName": "isiZulu (iNingizimu Afrika)",
+      },
+    ],
+    "enabled": Array [
+      Object {
+        "cultureCode": "en-US",
+        "displayName": "English (United States)",
+        "nativeName": "English (United States)",
+      },
+    ],
+    "enabledLabels": Object {
+      "cultureCodeLabel": "Culture Code",
+      "headerLabel": "Enabled Cultures",
+      "message": "No cultures are enabled",
+      "nativeNameLabel": "Native Name",
+    },
+    "id": "cultures unique id........",
+    "pendingLabels": Object {
+      "cancelAllButtonLabel": "Cancel All",
+      "commitButtonLabel": "Enable",
+      "headerLabel": "Pending Cultures",
+    },
+    "selectedLabels": Object {
+      "addToPendingLabel": "Add to Pending",
+      "cancelLabel": "Cancel",
+      "label": "Select a Culture",
+      "placeholder": " enter text to search cultures ...",
+    },
+    "toolbarLabels": Object {
+      "label": "Enable Culture",
+    },
+  },
+}
+`;

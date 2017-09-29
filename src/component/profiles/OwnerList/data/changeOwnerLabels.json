@@ -1,0 +1,46 @@
+[
+  {
+    "key": "_ChgOwn_OwnerTypeError",
+    "value": "An Owner Type is required"
+  },
+  {
+    "key": "_ChgOwn_OwnerRequiredError",
+    "value": "A selection is required for "
+  },
+  {
+    "key": "_ChgOwn_OwnersHeader",
+    "value": "Change Owners"
+  },
+  {
+    "key": "_ChgOwn_OwnerTypePlaceholder",
+    "value": "select an Owner Type"
+  },
+  {
+    "key": "_ChgOwn_OwnerTypeHeader",
+    "value": "Type of Owner to Change"
+  },
+  {
+    "key": "_ChgOwn_OwnerTypeLabel",
+    "value": "Owner Type"
+  },
+  {
+    "key": "_ChgOwn_Step1Label",
+    "value": "Select Owner Type"
+  },
+  {
+    "key": "_ChgOwn_Step2Label",
+    "value": "Select New Owner"
+  },
+  {
+    "key": "_ChgOwn_Step3Label",
+    "value": "Confirm"
+  },
+  {
+    "key": "_ChgOwn_Step3Header",
+    "value": "Confirm Changes"
+  },
+  {
+    "key": "_ChgOwn_Step3Prompt",
+    "value": "Do you wish to make the following changes?"
+  }
+]

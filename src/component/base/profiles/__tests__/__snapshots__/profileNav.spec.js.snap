@@ -1,0 +1,620 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`profileNav ApplicationRole 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav ApprovalCycleConfig 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav AssociationConfig 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav CategoryHierarchy 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Category Hierarchy",
+        "url": "hierarchy",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav CharacteristicConfig 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav ChoiceList 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Choice List",
+        "url": "hierarchy",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav DictionaryEntry 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav Document 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Section One Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Standard Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Section Two Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Hosted Master Data Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "By Reference Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Standard (Advanced) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav DocumentClass 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav DocumentType 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Property Configs",
+        "url": "configs",
+      },
+      Object {
+        "label": "Standard (Document Type) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav Layout 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav LifeCycleConfig 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav LineItemConfig 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav NavigationHierarchy 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav NavigationNode 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav Organization 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav OrganizationHierarchy 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "OrganizationHierarchy",
+        "url": "hierarchy",
+      },
+      Object {
+        "label": "Tree",
+        "url": "hierarchy/nested",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav SectionConfig 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;
+
+exports[`profileNav User 1`] = `
+Object {
+  "profileNav": Object {
+    "navLinks": Array [
+      Object {
+        "label": "Entity",
+        "url": "entity",
+      },
+      Object {
+        "label": "Identity",
+        "url": "identity",
+      },
+      Object {
+        "label": "Standard (Profile) Heading",
+        "url": "sections/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "LifeCycle Status",
+        "url": "lifecycles/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+      },
+      Object {
+        "label": "Characteristics",
+        "url": "characteristics",
+      },
+      Object {
+        "label": "Show All Sections",
+        "url": "all",
+      },
+    ],
+  },
+}
+`;

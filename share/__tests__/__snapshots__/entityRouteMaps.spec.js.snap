@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Enity Route Maps Action 1`] = `"actions/revisions"`;
+
+exports[`Enity Route Maps ApplicationRole 1`] = `"applicationroles/revisions"`;
+
+exports[`Enity Route Maps ApprovalCycleConfig 1`] = `"approvalcycleconfigs/revisions"`;
+
+exports[`Enity Route Maps AssociationConfig 1`] = `"associationconfigs/revisions"`;
+
+exports[`Enity Route Maps CategoryHierarchy 1`] = `"categoryhierarchies/revisions"`;
+
+exports[`Enity Route Maps CharacteristicConfig 1`] = `"characteristicconfigs/revisions"`;
+
+exports[`Enity Route Maps ChoiceList 1`] = `"choicelists/revisions"`;
+
+exports[`Enity Route Maps DictionaryEntry 1`] = `"dictionaryentries/revisions"`;
+
+exports[`Enity Route Maps Document 1`] = `"documents/revisions"`;
+
+exports[`Enity Route Maps DocumentClass 1`] = `"documentclasses/revisions"`;
+
+exports[`Enity Route Maps DocumentType 1`] = `"documenttypes/revisions"`;
+
+exports[`Enity Route Maps Layout 1`] = `"templatelayouts/revisions"`;
+
+exports[`Enity Route Maps LifeCycleConfig 1`] = `"lifecycleconfigs"`;
+
+exports[`Enity Route Maps LineItemConfig 1`] = `"lineitemconfigs/revisions"`;
+
+exports[`Enity Route Maps NavigationHierarchy 1`] = `"navigationhierarchies/revisions"`;
+
+exports[`Enity Route Maps NavigationNode 1`] = `"navigationnodes/revisions"`;
+
+exports[`Enity Route Maps Organization 1`] = `"organizations/revisions"`;
+
+exports[`Enity Route Maps OrganizationHierarchy 1`] = `"organizationhierarchies/revisions"`;
+
+exports[`Enity Route Maps SectionConfig 1`] = `"sectionconfigs/revisions"`;
+
+exports[`Enity Route Maps User 1`] = `"users"`;

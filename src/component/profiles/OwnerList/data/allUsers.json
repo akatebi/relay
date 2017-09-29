@@ -1,0 +1,102 @@
+[
+  {
+  "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+  "isFamily": false,
+  "cultureCode": "",
+  "id": "04c5d829-5027-4f0a-8e43-a71d00ba1210",
+  "reportingKey": null,
+  "entityType": "ApplicationRole",
+  "label": "User10",
+  "operation": "NoOp"
+  },
+  {
+  "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+  "isFamily": false,
+  "cultureCode": "",
+  "id": "04c5d829-5027-4f0a-8e43-a71d00ba1211",
+  "reportingKey": null,
+  "entityType": "ApplicationRole",
+  "label": "User11",
+  "operation": "NoOp"
+  },
+  {
+  "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+  "isFamily": false,
+  "cultureCode": "",
+  "id": "04c5d829-5027-4f0a-8e43-a71d00ba1212",
+  "reportingKey": null,
+  "entityType": "ApplicationRole",
+  "label": "User12",
+  "operation": "NoOp"
+  },
+  {
+  "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+  "isFamily": false,
+  "cultureCode": "",
+  "id": "04c5d829-5027-4f0a-8e43-a71d00ba1213",
+  "reportingKey": null,
+  "entityType": "ApplicationRole",
+  "label": "User13",
+  "operation": "NoOp"
+  },
+  {
+  "familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12aa",
+  "isFamily": false,
+  "cultureCode": "",
+  "id": "04c5d829-5027-4f0a-8e43-a71d00ba1214",
+  "reportingKey": null,
+  "entityType": "ApplicationRole",
+  "label": "User14",
+  "operation": "NoOp"
+},
+{
+"familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+"isFamily": false,
+"cultureCode": "",
+"id": "04c5d829-5027-4f0a-8e43-a71d00ba1215",
+"reportingKey": null,
+"entityType": "ApplicationRole",
+"label": "User15",
+"operation": "NoOp"
+},
+{
+"familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+"isFamily": false,
+"cultureCode": "",
+"id": "04c5d829-5027-4f0a-8e43-a71d00ba1216",
+"reportingKey": null,
+"entityType": "ApplicationRole",
+"label": "User16",
+"operation": "NoOp"
+},
+{
+"familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+"isFamily": false,
+"cultureCode": "",
+"id": "04c5d829-5027-4f0a-8e43-a71d00ba1217",
+"reportingKey": null,
+"entityType": "ApplicationRole",
+"label": "User17",
+"operation": "NoOp"
+},
+{
+"familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12a9",
+"isFamily": false,
+"cultureCode": "",
+"id": "04c5d829-5027-4f0a-8e43-a71d00ba1218",
+"reportingKey": null,
+"entityType": "ApplicationRole",
+"label": "User18",
+"operation": "NoOp"
+},
+{
+"familyId": "c717c9ed-c16b-452c-84ea-a71d00ba12aa",
+"isFamily": false,
+"cultureCode": "",
+"id": "04c5d829-5027-4f0a-8e43-a71d00ba1219",
+"reportingKey": null,
+"entityType": "ApplicationRole",
+"label": "User19",
+"operation": "NoOp"
+}
+]

@@ -1,0 +1,81 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dashboard 1`] = `
+Object {
+  "dashboard": Object {
+    "myTaskList": Array [],
+    "myTrackingList": Array [
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Form Control Document One",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Form Control Document Three",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Form Control Document Two",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction Auto Numbering",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction Disabled Numbering",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction Free Form Numbering",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction Manual Numbering",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction One",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction Three",
+        "revId": "",
+      },
+      Object {
+        "entityType": "Document",
+        "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+        "isFamily": false,
+        "label": "Work Instruction Two",
+        "revId": "",
+      },
+    ],
+  },
+}
+`;

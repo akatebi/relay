@@ -1,0 +1,115 @@
+{
+  "admin": [
+    {
+      "url": "cultures",
+      "label": "Cultures",
+      "enabled": true
+    },
+    {
+      "url": "users",
+      "label": "User Profiles",
+      "enabled": true
+    }
+  ],
+  "config":
+    [
+      {
+        "url": "approvalcycleconfigs/revisions",
+        "label": "Approval Cycle Configs",
+        "enabled": true
+      },
+      {
+        "url": "applicationroles/revisions",
+        "label": "Application Roles",
+        "enabled": true
+      },
+      {
+        "url": "associationconfigs/revisions",
+        "label": "Association Configs",
+        "enabled": true
+      },
+      {
+        "url": "characteristicconfigs/revisions",
+        "label": "Characteristic Configs",
+        "enabled": true
+      },
+      {
+        "url": "documentclasses/revisions",
+        "label": "Document Classes",
+        "enabled": true
+      },
+      {
+        "url": "documenttypes/revisions",
+        "label": "Document Types",
+        "enabled": true
+      },
+      {
+        "url": "lifecycleconfigs",
+        "label": "Life Cycle Configs",
+        "enabled": true
+      },
+      {
+        "url": "lineitemconfigs/revisions",
+        "label": "Line Item Configs",
+        "enabled": true
+      },
+      {
+        "url": "navigationhierarchies/revisions",
+        "label": "Navigation Hierarchies",
+        "enabled": true
+      },
+      {
+        "url": "sectionconfigs/revisions",
+        "label": "Section Configs",
+        "enabled": true
+      },
+      {
+        "url": "templatelayouts/revisions",
+        "label": "Template Layouts",
+        "enabled": true
+      }
+    ],
+  "content":
+    [
+      {
+        "url": "actions/revisions",
+        "label": "Actions",
+        "enabled": true
+      },
+      {
+        "url": "categoryhierarchies/revisions",
+        "label": "Category Hierarchies",
+        "enabled": true
+      },
+      {
+        "url": "choicelists/revisions",
+        "label": "Choice Lists",
+        "enabled": true
+      },
+      {
+        "url": "dictionaryentries/revisions",
+        "label": "Dictionary Entries",
+        "enabled": true
+      },
+      {
+        "url": "documents/revisions",
+        "label": "Documents",
+        "enabled": true
+      },
+      {
+        "url": "navigationnodes/revisions",
+        "label": "Navigation Nodes",
+        "enabled": true
+      },
+      {
+        "url": "organizations/revisions",
+        "label": "Organizations",
+        "enabled": true
+      },
+      {
+        "url": "organizationhierarchies/revisions",
+        "label": "Organization Hierarchy",
+        "enabled": true
+      }
+    ]
+}

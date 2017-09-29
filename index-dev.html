@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Linqoln</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="text/javascript">
+      // Force `fetch` polyfill to workaround Chrome not displaying request body
+      // in developer tools for the native `fetch`.
+      self.fetch = null;
+      window.$SiemensQMS = {
+        appName: 'Siemens PLM QMS',
+        backEndHost: window.location.hostname,
+        backEndPort: 52395,
+        backEndVersion: 'api/v1',
+      };
+    </script>
+    <script type="text/javascript" src="/relay/dist/common.bundle.js"></script>
+    <script type="text/javascript" src="/relay/dist/index.bundle.js"></script>
+    <script type="text/javascript" src="/relay/dist/vendor.bundle.js"></script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`signIn 1`] = `
+Object {
+  "signInMutation": Object {
+    "viewer": Object {
+      "error": null,
+      "userIdentity": Object {
+        "organization": Object {
+          "entityType": "Organization",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+          "label": "Enterprise Organization",
+        },
+        "user": Object {
+          "entityType": "User",
+          "id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx-entityVM",
+          "label": "User0",
+        },
+      },
+    },
+  },
+}
+`;
+
+exports[`signIn 2`] = `
+Object {
+  "signOutMutation": Object {
+    "viewer": null,
+  },
+}
+`;

@@ -1,0 +1,172 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`entityTree OrganizationHierarchy 1`] = `
+Array [
+  "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+]
+`;
+
+exports[`entityTree OrganizationHierarchy 2`] = `
+Object {
+  "entityTree": Object {
+    "children": Array [
+      Object {
+        "children": Array [],
+        "name": "Corporate Organization",
+      },
+      Object {
+        "children": Array [
+          Object {
+            "children": Array [
+              Object {
+                "children": Array [],
+                "name": "Chicago",
+              },
+              Object {
+                "children": Array [],
+                "name": "St. Louis",
+              },
+              Object {
+                "children": Array [],
+                "name": "Fargo",
+              },
+              Object {
+                "children": Array [],
+                "name": "Green Bay",
+              },
+              Object {
+                "children": Array [],
+                "name": "Detroit",
+              },
+            ],
+            "name": "Midwest",
+          },
+          Object {
+            "children": Array [
+              Object {
+                "children": Array [],
+                "name": "New York",
+              },
+              Object {
+                "children": Array [],
+                "name": "Philadelphia",
+              },
+              Object {
+                "children": Array [],
+                "name": "Norfolk",
+              },
+              Object {
+                "children": Array [
+                  Object {
+                    "children": Array [],
+                    "name": "Providence",
+                  },
+                  Object {
+                    "children": Array [],
+                    "name": "Hartford",
+                  },
+                  Object {
+                    "children": Array [],
+                    "name": "Portsmouth",
+                  },
+                  Object {
+                    "children": Array [],
+                    "name": "Boston",
+                  },
+                  Object {
+                    "children": Array [],
+                    "name": "Augusta",
+                  },
+                ],
+                "name": "New England",
+              },
+              Object {
+                "children": Array [],
+                "name": "Newark",
+              },
+            ],
+            "name": "Northeast",
+          },
+          Object {
+            "children": Array [
+              Object {
+                "children": Array [],
+                "name": "Portland",
+              },
+              Object {
+                "children": Array [],
+                "name": "Seattle",
+              },
+              Object {
+                "children": Array [],
+                "name": "Boise",
+              },
+              Object {
+                "children": Array [],
+                "name": "Billings",
+              },
+            ],
+            "name": "Northwest",
+          },
+          Object {
+            "children": Array [
+              Object {
+                "children": Array [],
+                "name": "Nashville",
+              },
+              Object {
+                "children": Array [],
+                "name": "Charlotte",
+              },
+              Object {
+                "children": Array [],
+                "name": "Cleveland",
+              },
+              Object {
+                "children": Array [],
+                "name": "Dallas",
+              },
+              Object {
+                "children": Array [],
+                "name": "New Orleans",
+              },
+              Object {
+                "children": Array [],
+                "name": "Atlanta",
+              },
+              Object {
+                "children": Array [],
+                "name": "Miami",
+              },
+            ],
+            "name": "Southeast",
+          },
+          Object {
+            "children": Array [
+              Object {
+                "children": Array [],
+                "name": "Denver",
+              },
+              Object {
+                "children": Array [],
+                "name": "Phoenix",
+              },
+              Object {
+                "children": Array [],
+                "name": "San Diego",
+              },
+              Object {
+                "children": Array [],
+                "name": "Reno",
+              },
+            ],
+            "name": "Southwest",
+          },
+        ],
+        "name": "Enterprise Organization",
+      },
+    ],
+    "name": "All Organizations",
+  },
+}
+`;

@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Recorder changeConfig customAttributes 1`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "customAttributes": Array [
+        Object {
+          "name": "name",
+          "type": "Boolean",
+          "value": Object {
+            "Boolean": false,
+          },
+        },
+      ],
+      "id": 0,
+    },
+    Object {
+      "customAttributes": Array [
+        Object {
+          "name": "name",
+          "type": "Boolean",
+          "value": Object {
+            "Boolean": false,
+          },
+        },
+      ],
+      "id": 1,
+    },
+  ],
+}
+`;
+
+exports[`Recorder changeConfig customAttributes 2`] = `Object {}`;
+
+exports[`Recorder changeConfig customAttributes 3`] = `
+Object {
+  "configProperties": Array [
+    Object {
+      "customAttributes": Array [
+        Object {
+          "name": "name",
+          "type": "Category",
+          "value": Object {
+            "Category": Object {
+              "b": 1,
+            },
+          },
+        },
+      ],
+      "id": 0,
+    },
+    Object {
+      "customAttributes": Array [
+        Object {
+          "name": "name",
+          "type": "Category",
+          "value": Object {
+            "Category": Object {
+              "b": 1,
+            },
+          },
+        },
+      ],
+      "id": 1,
+    },
+  ],
+}
+`;
+
+exports[`Recorder changeConfig customAttributes 4`] = `Object {}`;

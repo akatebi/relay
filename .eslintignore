@@ -1,0 +1,5 @@
+dist
+server/data/database/log
+elasticSearch.log
+__logs__
+__snapshots__

@@ -1,0 +1,13 @@
+server/schema.graphql
+server/data/database/get/*.json
+server/data/database/put/*.json
+server/data/database/post/*.json
+node_modules
+index.html
+dist
+coverage
+__generated__
+*.log
+.git
+get
+logs

@@ -1,0 +1,48 @@
+apps:
+
+  - script: node_modules/relay-compiler/bin/relay-compiler
+    name: relay
+    exec_mode: cluster_mode
+    args: --src ./src --schema server/schema.graphql
+    watch: ['src/component/**/*.js', 'src/component/**/**/*.js']
+    ignore_watch: ['src/**/__generated__', 'src/**/**/__generated__', 'src/**/**/**/__generated__', 'src/**/**/**/**/__generated__']
+
+  - script: server/graphql.js
+    name: graphql
+    exec_mode: cluster_mode
+    node_args: -r babel-register -r babel-polyfill
+    source_map_support: true
+    env:
+      NODE_ENV: development
+    env_production:
+      BABEL_ENV: development
+      NODE_ENV: production
+    env_gqlog:
+      GQLOG: gqlog
+    watch: ['server']
+    ignore_watch: ['server/data/__*__', 'server/schema.graphql', 'server/data/database/token.json', 'server/index.js', 'server/data/database/get', 'server/data/database/post', 'server/data/database/put']
+
+  - script: server/index.js
+    name: web
+    exec_mode: cluster_mode
+    node_args: -r babel-register -r babel-polyfill
+    source_map_support: true
+    update_env: true
+    env:
+      NODE_ENV: development
+    env_production:
+      NODE_ENV: production
+    watch: ['webpack.config.js', 'server/index.js', 'src/**/__generated__', 'src/**/**/__generated__', 'src/**/**/**/__generated__', 'src/**/**/**/**/__generated__']
+
+  - script: server/updateSchema.js
+    name: schema
+    node_args: -r babel-register
+    autorestart: false
+    exec_mode: cluster_mode
+    env:
+      NODE_ENV: development
+    env_production:
+      BABEL_ENV: development
+      NODE_ENV: production
+    watch: ['server/data']
+    ignore_watch: ['server/data/__*__', 'server/data/database/get', 'server/data/database/post', 'server/data/database/put', 'server/data/database/token.json']
